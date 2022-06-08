@@ -5,6 +5,7 @@ import CronogramaPage from "@/views/CronogramaPage"
 import ProtocolosPage from "@/views/ProtocolosPage"
 import ContactoPage from "@/views/ContactoPage"
 import InscripcionesPage from "@/views/InscripcionesPage"
+import PonentesPage from "@/views/PonentesPage"
 
 const routes = [{
     path: "/",
@@ -35,6 +36,11 @@ const routes = [{
     path: "/inscripciones",
     name: "InscripcionesPage",
     component: InscripcionesPage,
+  },
+  {
+    path: "/ponentes",
+    name: "PonentesPage",
+    component: PonentesPage,
   },
 ]
   

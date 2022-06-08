@@ -46,21 +46,44 @@
                 />
               </svg>
             </a>
-            <ul class="p-2 text-black font-bold bg-white">
+            <ul class="p-2 text-black font-bold bg-white -mx-48 mt-10 z-10">
               <li>
                 <a class="active:bg-[#006] active:text-white"
-                  >Eventos 1
-                  hjhvjsbnkjvbnjsbvjdsfbvjhbdfjhbvjdfsbvjbfjbvsfbvjhfjvhbf</a
+                  >Competencias oficiales de AIChE</a
                 >
               </li>
               <li>
-                <a class="active:bg-[#006] active:text-white">Eventos 2</a>
+                <a class="active:bg-[#006] active:text-white"
+                  >Ponencias magistrales</a
+                >
               </li>
               <li>
-                <a class="active:bg-[#006] active:text-white">Eventos 3</a>
+                <a class="active:bg-[#006] active:text-white">Workshops </a>
               </li>
               <li>
-                <a class="active:bg-[#006] active:text-white">Eventos 4</a>
+                <a class="active:bg-[#006] active:text-white"
+                  >Feria de oportunidades</a
+                >
+              </li>
+              <li>
+                <a class="active:bg-[#006] active:text-white"
+                  >Presentaciones culturales</a
+                >
+              </li>
+              <li>
+                <a class="active:bg-[#006] active:text-white"
+                  >Networking social</a
+                >
+              </li>
+              <li>
+                <a class="active:bg-[#006] active:text-white"
+                  >Compartir de experiencias AIChE</a
+                >
+              </li>
+              <li>
+                <a class="active:bg-[#006] active:text-white"
+                  >Cierre de evento y actividades culturales</a
+                >
               </li>
             </ul>
           </li>
@@ -124,25 +147,45 @@
               />
             </svg>
           </a>
-          <ul class="p-2 text-black font-bold">
+          <ul class="p-2 text-black font-bold bg-white">
             <li>
               <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
-                >Eventos 1</a
+                >Competencias oficiales de AIChE</a
               >
             </li>
             <li>
               <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
-                >Eventos 2</a
+                >Ponencias magistrales</a
               >
             </li>
             <li>
               <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
-                >Eventos 3</a
+                >Workshops
+              </a>
+            </li>
+            <li>
+              <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+                >Feria de oportunidades</a
               >
             </li>
             <li>
               <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
-                >Eventos 4</a
+                >Presentaciones culturales</a
+              >
+            </li>
+            <li>
+              <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+                >Networking social</a
+              >
+            </li>
+            <li>
+              <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+                >Compartir de experiencias AIChE</a
+              >
+            </li>
+            <li>
+              <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+                >Cierre de evento y actividades culturales</a
               >
             </li>
           </ul>

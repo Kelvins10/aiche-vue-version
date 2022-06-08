@@ -22,13 +22,13 @@ export default {};
       hsla(240, 100%, 20%, 0.459),
       hsla(195, 100%, 50%, 0.664)
     ),
-    url(../../assets/img-competencias/Portada.jpg);
+    url(../../assets/competencias/Portada.jpg);
   background: linear-gradient(
       to right,
       hsla(240, 100%, 20%, 0.459),
       hsla(195, 100%, 50%, 0.664)
     ),
-    url(../../assets/img-competencias/Portada.jpg);
+    url(../../assets/competencias/Portada.jpg);
   background-size: cover;
   background-attachment: fixed;
 }

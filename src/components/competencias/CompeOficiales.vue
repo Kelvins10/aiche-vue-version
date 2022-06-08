@@ -1,123 +1,124 @@
 <template class="">
-  <div class="bg-white">
+  <div class="xl:px-32 lg:px-23 md:px-14 px-10 bg-white">
     <div>
-      <h1 class="text-4xl text-[#000066] font-bold text- pt-5 text-center">
+      <h1 class="text-3xl bg-white font-bold text-center text-[#006] pt-5">
         Competencias Oficiales de AIChE
       </h1>
     </div>
-    <div class="flex justify-evenly pt-5 pb-5 w-full">
-      <div
-        class="w-80 flex-wrap bg-white border border-[#231f20] rounded-lg shadow-md shadow-[#231f20]"
-      >
-        <div class="ab-pillar card-body text-black cursor-default">
-          <div>
-            <img
-              class="ab-bw w-14 m-auto"
-              src="../../assets/competencias/experience.-bw.png"
-              alt=""
-            />
-            <img
-              class="ab-img w-14 m-auto"
-              src="../../assets/competencias/experience.png"
-              alt=""
-            />
-          </div>
-          <h2 class="text-center font-bold text-xl text-[#000066]">
-            ChemE Joepardy
-          </h2>
-          <p class="text-justify">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta
-            consequatur vitae alias corporis in ea error illum temporibus
-            dolorum veniam repudiandae nemo, ut culpa ipsa earum laborum?
-            Quidem, ipsum fugit.
-          </p>
-        </div>
-      </div>
-      <div
-        class="w-80 flex-wrap bg-white border border-[#231f20] rounded-lg shadow-md shadow-[#231f20]"
-      >
+    <div class="flex flex-wrap justify-evenly pb-10 m-auto">
+      <div class="p-5 md:px-1 flex">
         <div
-          class="ab-pillar card-body text-black w-full max-w-md pt-6 pb-6 pl-8 pr-8 cursor-default"
+          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black 2xl:w-80"
         >
           <div class="image">
             <img
-              class="ab-bw w-[55px] m-auto"
-              src="../../assets/competencias/tech-bw.png"
+              class="ab-bw"
+              src="../../assets/img-competencias/experience.-bw.png"
               alt=""
             />
             <img
-              class="ab-img w-14 hidden"
-              src="../../assets/competencias/tech.png"
+              class="ab-img"
+              src="../../assets/img-competencias/experience.png"
               alt=""
             />
           </div>
-          <h2 class="text-center font-bold text-xl text-[#000066]">
-            ChemE car
-          </h2>
-          <p class="text-justify">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta
-            consequatur vitae alias corporis in ea error illum temporibus
-            dolorum veniam repudiandae nemo, ut culpa ipsa earum laborum?
-            Quidem, ipsum fugit.
-          </p>
+          <div class="card-body">
+            <h2 class="text-center text-xl font-bold pt-3">ChemE Joepardy</h2>
+            <p class="text-justify">
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut
+              voluptate eveniet voluptatibus optio rem eos neque quisquam
+              laboriosam, explicabo eaque commodi quaerat facilis. Numquam vitae
+              suscipit eius mollitia provident modi!
+            </p>
+          </div>
         </div>
       </div>
-      <div
-        class="w-80 flex-wrap bg-white border border-[#231f20] rounded-lg shadow-md shadow-[#231f20]"
-      >
+
+      <div class="p-5 md:px-1 flex">
         <div
-          class="ab-pillar card-body text-black w-full max-w-md pt-6 pb-6 pl-8 pr-8 cursor-default"
+          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black 2xl:w-80"
         >
           <div class="image">
             <img
-              class="ab-bw w-[55px] m-auto"
-              src="../../assets/competencias/responsibility-bw.png"
+              class="ab-bw"
+              src="../../assets/img-competencias/tech-bw.png"
               alt=""
             />
             <img
-              class="ab-img w-14 hidden"
-              src="../../assets/competencias/responsibility.png"
+              class="ab-img"
+              src="../../assets/img-competencias/tech.png"
               alt=""
             />
           </div>
-          <h2 class="text-center font-bold text-xl text-[#000066]">
-            Paper Competition
-          </h2>
-          <p class="text-justify">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta
-            consequatur vitae alias corporis in ea error illum temporibus
-            dolorum veniam repudiandae nemo, ut culpa ipsa earum laborum?
-            Quidem, ipsum fugit.
-          </p>
+          <div class="card-body">
+            <h2 class="text-center text-xl font-bold pt-3">ChemE car</h2>
+            <p class="text-justify">
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut
+              voluptate eveniet voluptatibus optio rem eos neque quisquam
+              laboriosam, explicabo eaque commodi quaerat facilis. Numquam vitae
+              suscipit eius mollitia provident modi!
+            </p>
+          </div>
         </div>
       </div>
-      <div
-        class="w-80 flex-wrap bg-white border border-[#231f20] rounded-lg shadow-md shadow-[#231f20]"
-      >
+
+      <div class="p-5 md:px-1 flex">
         <div
-          class="ab-pillar card-body text-black w-full max-w-md pt-6 pb-6 pl-8 pr-8 cursor-default"
+          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black 2xl:w-80"
         >
           <div class="image">
             <img
-              class="ab-bw w-[55px] m-auto"
-              src="../../assets/competencias/experience.-bw.png"
+              class="ab-bw"
+              src="../../assets/img-competencias/responsibility-bw.png"
               alt=""
             />
             <img
-              class="ab-img w-14 hidden"
-              src="../../assets/competencias/experience.png"
+              class="ab-img"
+              src="../../assets/img-competencias/responsibility.png"
               alt=""
             />
           </div>
-          <h2 class="text-center font-bold text-xl text-[#000066]">
-            Poster Competition
-          </h2>
-          <p class="text-justify">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta
-            consequatur vitae alias corporis in ea error illum temporibus
-            dolorum veniam repudiandae nemo, ut culpa ipsa earum laborum?
-            Quidem, ipsum fugit. lor
-          </p>
+          <div class="card-body">
+            <h2 class="text-center text-xl font-bold pt-3">
+              Paper Competition
+            </h2>
+            <p class="text-justify">
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut
+              voluptate eveniet voluptatibus optio rem eos neque quisquam
+              laboriosam, explicabo eaque commodi quaerat facilis. Numquam vitae
+              suscipit eius mollitia provident modi!
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="p-5 md:px-1 flex">
+        <div
+          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black 2xl:w-80"
+        >
+          <div class="image">
+            <img
+              class="ab-bw"
+              src="../../assets/img-competencias/experience.-bw.png"
+              alt=""
+            />
+            <img
+              class="ab-img"
+              src="../../assets/img-competencias/experience.png"
+              alt=""
+            />
+          </div>
+          <div class="card-body">
+            <h2 class="text-center text-xl font-bold pt-3">
+              Poster Competition
+            </h2>
+            <p class="text-justify">
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut
+              voluptate eveniet voluptatibus optio rem eos neque quisquam
+              laboriosam, explicabo eaque commodi quaerat facilis. Numquam vitae
+              suscipit eius mollitia provident modi! lore
+            </p>
+          </div>
         </div>
       </div>
     </div>
@@ -129,8 +130,19 @@ export default {};
 </script>
 
 <style scoped>
+.image {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 .ab-pillar img {
   transition: opacity ease 0.3s;
+}
+.ab-pillar .ab-bw {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
 }
 .ab-pillar .ab-img {
   opacity: 0;

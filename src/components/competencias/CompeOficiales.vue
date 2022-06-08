@@ -13,12 +13,12 @@
           <div>
             <img
               class="ab-bw w-14 m-auto"
-              src="../../assets/img-competencias/experience.-bw.png"
+              src="../../assets/competencias/experience.-bw.png"
               alt=""
             />
             <img
               class="ab-img w-14 m-auto"
-              src="../../assets/img-competencias/experience.png"
+              src="../../assets/competencias/experience.png"
               alt=""
             />
           </div>
@@ -42,12 +42,12 @@
           <div class="image">
             <img
               class="ab-bw w-[55px] m-auto"
-              src="../../assets/img-competencias/tech-bw.png"
+              src="../../assets/competencias/tech-bw.png"
               alt=""
             />
             <img
               class="ab-img w-14 hidden"
-              src="../../assets/img-competencias/tech.png"
+              src="../../assets/competencias/tech.png"
               alt=""
             />
           </div>
@@ -71,12 +71,12 @@
           <div class="image">
             <img
               class="ab-bw w-[55px] m-auto"
-              src="../../assets/img-competencias/responsibility-bw.png"
+              src="../../assets/competencias/responsibility-bw.png"
               alt=""
             />
             <img
               class="ab-img w-14 hidden"
-              src="../../assets/img-competencias/responsibility.png"
+              src="../../assets/competencias/responsibility.png"
               alt=""
             />
           </div>
@@ -100,12 +100,12 @@
           <div class="image">
             <img
               class="ab-bw w-[55px] m-auto"
-              src="../../assets/img-competencias/experience.-bw.png"
+              src="../../assets/competencias/experience.-bw.png"
               alt=""
             />
             <img
               class="ab-img w-14 hidden"
-              src="../../assets/img-competencias/experience.png"
+              src="../../assets/competencias/experience.png"
               alt=""
             />
           </div>
@@ -128,7 +128,7 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .ab-pillar img {
   transition: opacity ease 0.3s;
 }

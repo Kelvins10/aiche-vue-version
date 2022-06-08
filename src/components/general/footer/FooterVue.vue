@@ -1,9 +1,6 @@
 <template>
   <footer class="footer footer-center p-4 text-primary-content">
     <div>
-<<<<<<< HEAD
-      <p class="text-white">Copyright © 2022 - Kelvin Joel Sullón Silva</p>
-=======
       <p class="font-bold">
         Procesa 2022<br />4th AIChE Latin America Student Regional Conference
       </p>
@@ -48,7 +45,6 @@
             ></path></svg
         ></a>
       </div>
->>>>>>> 3d57f4f724e18c13995cda45b78ddfcfe86d5823
     </div>
   </footer>
 </template>

@@ -1,4 +1,4 @@
-# food-app
+# Aiche-app
 
 ## Project setup
 ```

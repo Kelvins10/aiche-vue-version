@@ -1,7 +1,7 @@
 <template>
   <footer class="footer footer-center p-4 bg-black text-base-content">
     <div>
-      <p>Copyright © 2022 - Kelvin Joel Sullón Silva</p>
+      <p class="text-white">Copyright © 2022 - Kelvin Joel Sullón Silva</p>
     </div>
   </footer>
 </template>

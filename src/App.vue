@@ -13,8 +13,8 @@ export default {
   computed: {
     rutas() {
       const RUTAS = [
-        { to: "/", section: "Inicio" },
-        { to: "/nosotros", section: "Nosotros" },
+        { "/": "Inicio" },
+        { to: "/nosotros", section: "Competen" },
         { to: "/cursos", section: "Cursos" },
         { to: "/componentes", section: "Componentes" },
       ];

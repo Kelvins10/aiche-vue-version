@@ -22,7 +22,7 @@
           tabindex="0"
           class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
         >
-          <li><a>Inicio</a></li>
+          <li><router-link to="/">Inicio</router-link></li>
           <li tabindex="0">
             <a class="justify-between">
               Eventos
@@ -45,17 +45,25 @@
               <li><a>Eventos 4</a></li>
             </ul>
           </li>
-          <li><a>Competencias</a></li>
-          <li><a>Cronograma</a></li>
-          <li><a>Protocolos de Seguridad</a></li>
-          <li><a>Contáctanos</a></li>
+          <li>
+            <router-link to="/competencias">Competencias</router-link>
+          </li>
+          <li><router-link to="/cronograma">Cronograma</router-link></li>
+          <li>
+            <router-link to="/protocolos-de-seguridad"
+              >Protocolos de Seguridad</router-link
+            >
+          </li>
+          <li><router-link to="/contacto">Contáctanos</router-link></li>
         </ul>
       </div>
-      <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+      <router-link to="/" class="btn btn-ghost normal-case text-xl"
+        >daisyUI</router-link
+      >
     </div>
     <div class="navbar-center hidden lg:flex">
       <ul class="menu menu-horizontal p-0">
-        <li><a>Inicio</a></li>
+        <li><router-link to="/">Inicio</router-link></li>
         <li tabindex="0">
           <a>
             Eventos
@@ -78,14 +86,18 @@
             <li><a>Eventos 4</a></li>
           </ul>
         </li>
-        <li><a>Competencias</a></li>
-        <li><a>Cronograma</a></li>
-        <li><a>Protocolos de Seguridad</a></li>
-        <li><a>Contáctanos</a></li>
+        <li><router-link to="/competencias">Competencias</router-link></li>
+        <li><router-link to="/cronograma">Cronograma</router-link></li>
+        <li>
+          <router-link to="/protocolos-de-seguridad"
+            >Protocolos de Seguridad</router-link
+          >
+        </li>
+        <li><router-link to="/contacto">Contáctanos</router-link></li>
       </ul>
     </div>
     <div class="navbar-end">
-      <a class="btn">Inscripciones</a>
+      <router-link to="/inscripciones" class="btn">Inscripciones</router-link>
     </div>
   </div>
 </template>

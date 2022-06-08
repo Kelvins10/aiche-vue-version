@@ -1,14 +1,14 @@
 <template>
-  <div class="navbar bg-base-100">
+  <div class="navbar bg-white">
     <div class="navbar-start">
       <div class="dropdown">
-        <label tabindex="0" class="btn btn-ghost lg:hidden">
+        <label tabindex="0" class="btn btn-ghost xl:hidden">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             class="h-5 w-5"
             fill="none"
             viewBox="0 0 24 24"
-            stroke="currentColor"
+            stroke="black"
           >
             <path
               stroke-linecap="round"
@@ -20,11 +20,19 @@
         </label>
         <ul
           tabindex="0"
-          class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
+          class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-white rounded-box w-52"
         >
-          <li><router-link to="/">Inicio</router-link></li>
+          <li>
+            <router-link
+              to="/"
+              class="text-black font-bold active:bg-[#006] active:text-white"
+              >Inicio</router-link
+            >
+          </li>
           <li tabindex="0">
-            <a class="justify-between">
+            <a
+              class="justify-between text-black font-bold active:bg-[#006] active:text-white"
+            >
               Eventos
               <svg
                 class="fill-current"
@@ -38,37 +46,74 @@
                 />
               </svg>
             </a>
-            <ul class="p-2">
-              <li><a>Eventos 1</a></li>
-              <li><a>Eventos 2</a></li>
-              <li><a>Eventos 3</a></li>
-              <li><a>Eventos 4</a></li>
+            <ul class="p-2 text-black font-bold bg-white">
+              <li>
+                <a class="active:bg-[#006] active:text-white"
+                  >Eventos 1
+                  hjhvjsbnkjvbnjsbvjdsfbvjhbdfjhbvjdfsbvjbfjbvsfbvjhfjvhbf</a
+                >
+              </li>
+              <li>
+                <a class="active:bg-[#006] active:text-white">Eventos 2</a>
+              </li>
+              <li>
+                <a class="active:bg-[#006] active:text-white">Eventos 3</a>
+              </li>
+              <li>
+                <a class="active:bg-[#006] active:text-white">Eventos 4</a>
+              </li>
             </ul>
           </li>
           <li>
-            <router-link to="/competencias">Competencias</router-link>
+            <router-link
+              to="/competencias"
+              class="text-black font-bold active:bg-[#006] active:text-white"
+              >Competencias</router-link
+            >
           </li>
-          <li><router-link to="/cronograma">Cronograma</router-link></li>
           <li>
-            <router-link to="/protocolos-de-seguridad"
+            <router-link
+              to="/cronograma"
+              class="text-black font-bold active:bg-[#006] active:text-white"
+              >Cronograma</router-link
+            >
+          </li>
+          <li>
+            <router-link
+              to="/protocolos-de-seguridad"
+              class="text-black font-bold active:bg-[#006] active:text-white"
               >Protocolos de Seguridad</router-link
             >
           </li>
-          <li><router-link to="/contacto">Contáctanos</router-link></li>
+          <li>
+            <router-link
+              to="/contacto"
+              class="text-black font-bold active:bg-[#006] active:text-white"
+              >Contáctanos</router-link
+            >
+          </li>
         </ul>
       </div>
-      <router-link to="/" class="btn btn-ghost normal-case text-xl"
-        >daisyUI</router-link
-      >
+      <router-link to="/" class="btn btn-ghost"
+        ><img src="../../../assets/LogoAIChE.png" alt="LogoAIChE" class="w-36"
+      /></router-link>
     </div>
-    <div class="navbar-center hidden lg:flex">
+    <div class="navbar-center hidden xl:flex">
       <ul class="menu menu-horizontal p-0">
-        <li><router-link to="/">Inicio</router-link></li>
+        <li>
+          <router-link
+            to="/"
+            class="text-black font-bold hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+            >Inicio</router-link
+          >
+        </li>
         <li tabindex="0">
-          <a>
+          <a
+            class="text-black font-bold hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+          >
             Eventos
             <svg
-              class="fill-current"
+              class="fill-current text-black hover:text-[#00BFFF] active:bg-[#006] active:text-white"
               xmlns="http://www.w3.org/2000/svg"
               width="20"
               height="20"
@@ -79,25 +124,65 @@
               />
             </svg>
           </a>
-          <ul class="p-2">
-            <li><a>Eventos 1</a></li>
-            <li><a>Eventos 2</a></li>
-            <li><a>Eventos 3</a></li>
-            <li><a>Eventos 4</a></li>
+          <ul class="p-2 text-black font-bold">
+            <li>
+              <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+                >Eventos 1</a
+              >
+            </li>
+            <li>
+              <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+                >Eventos 2</a
+              >
+            </li>
+            <li>
+              <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+                >Eventos 3</a
+              >
+            </li>
+            <li>
+              <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+                >Eventos 4</a
+              >
+            </li>
           </ul>
         </li>
-        <li><router-link to="/competencias">Competencias</router-link></li>
-        <li><router-link to="/cronograma">Cronograma</router-link></li>
         <li>
-          <router-link to="/protocolos-de-seguridad"
+          <router-link
+            to="/competencias"
+            class="text-black font-bold hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+            >Competencias</router-link
+          >
+        </li>
+        <li>
+          <router-link
+            to="/cronograma"
+            class="text-black font-bold hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+            >Cronograma</router-link
+          >
+        </li>
+        <li>
+          <router-link
+            to="/protocolos-de-seguridad"
+            class="text-black font-bold hover:text-[#00BFFF] active:bg-[#006] active:text-white"
             >Protocolos de Seguridad</router-link
           >
         </li>
-        <li><router-link to="/contacto">Contáctanos</router-link></li>
+        <li>
+          <router-link
+            to="/contacto"
+            class="text-black font-bold hover:text-[#00BFFF] active:bg-[#006] active:text-white"
+            >Contáctanos</router-link
+          >
+        </li>
       </ul>
     </div>
     <div class="navbar-end">
-      <router-link to="/inscripciones" class="btn">Inscripciones</router-link>
+      <router-link
+        to="/inscripciones"
+        class="btn bg-[#00BFFF] text-white normal-case border-none"
+        >Inscripciones</router-link
+      >
     </div>
   </div>
 </template>

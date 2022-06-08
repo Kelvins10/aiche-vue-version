@@ -1,9 +1,12 @@
 <template>
-  <h1>Home Page</h1>
+  <banner-component />
 </template>
 
 <script>
-export default {};
+import BannerComponent from "@/components/home/BannerComponent.vue";
+export default {
+  components: { BannerComponent },
+};
 </script>
 
 <style></style>

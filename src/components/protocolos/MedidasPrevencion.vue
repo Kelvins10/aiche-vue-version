@@ -7,50 +7,9 @@
         siguientes recomendaciones.
       </h3>
     </div>
-    <div class="pb-[10px]">
-      <div class="collapse rounded-xl text-center border border-[#006]">
-        <input type="checkbox" class="peer" />
-        <div
-          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold"
-        >
-          Ingreso al Perú
-        </div>
-        <div
-          class="collapse-content bg-white text-white peer-checked:bg-white peer-checked:text-black peer-checked:text-justify"
-        >
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-            esse quaerat qui cupiditate sed, possimus, ab asperiores ad
-            molestias nesciunt sequi alias. Ullam officia facere temporibus rem
-            blanditiis quas magni.
-          </p>
-        </div>
-      </div>
-    </div>
 
-    <div class="pb-[10px]">
-      <div class="collapse rounded-xl text-center border border-[#006]">
-        <input type="checkbox" class="peer" />
-        <div
-          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold"
-        >
-          Ingreso al Campus de UTEC
-        </div>
-        <div
-          class="collapse-content bg-white text-white peer-checked:bg-white peer-checked:text-black peer-checked:text-justify"
-        >
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-            esse quaerat qui cupiditate sed, possimus, ab asperiores ad
-            molestias nesciunt sequi alias. Ullam officia facere temporibus rem
-            blanditiis quas magni.
-          </p>
-        </div>
-      </div>
-    </div>
-
-    <div class="pb-[10px]">
-      <div class="collapse rounded-xl text-center border border-[#006]">
+    <div class="pb-[10px] text-justify md:text-center">
+      <div class="collapse rounded-xl border border-[#006]">
         <input type="checkbox" class="peer" />
         <div
           class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold"
@@ -70,8 +29,50 @@
       </div>
     </div>
 
-    <div class="pb-[10px]">
-      <div class="collapse rounded-xl text-center border border-[#006]">
+    <div class="pb-[10px] text-justify md:text-center">
+      <div class="collapse rounded-xl border border-[#006]">
+        <input type="checkbox" class="peer" />
+        <div
+          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold"
+        >
+          Normas de Bioseguridad
+        </div>
+        <div
+          class="collapse-content bg-white text-white peer-checked:bg-white peer-checked:text-black peer-checked:text-justify"
+        >
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+            esse quaerat qui cupiditate sed, possimus, ab asperiores ad
+            molestias nesciunt sequi alias. Ullam officia facere temporibus rem
+            blanditiis quas magni.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="pb-[10px] text-justify md:text-center">
+      <div class="collapse rounded-xl border border-[#006]">
+        <input type="checkbox" class="peer" />
+        <div
+          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold"
+        >
+          Normas de Bioseguridad
+        </div>
+        <div
+          class="collapse-content bg-white text-white peer-checked:bg-white peer-checked:text-black peer-checked:text-justify"
+        >
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+            esse quaerat qui cupiditate sed, possimus, ab asperiores ad
+            molestias nesciunt sequi alias. Ullam officia facere temporibus rem
+            blanditiis quas magni.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="pb-[10px] text-justify md:text-center">
+      <div class="collapse rounded-xl border border-[#006]">
         <input type="checkbox" class="peer" />
         <div
           class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold"

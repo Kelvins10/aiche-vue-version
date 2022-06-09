@@ -52,11 +52,6 @@
             <ul class="p-2 text-black font-bold bg-white -mx-48 mt-10 z-10">
               <li>
                 <a class="active:bg-[#006] active:text-white"
-                  >Competencias oficiales de AIChE</a
-                >
-              </li>
-              <li>
-                <a class="active:bg-[#006] active:text-white"
                   >Ponencias magistrales</a
                 >
               </li>
@@ -154,11 +149,6 @@
             class="p-2 text-black font-bold bg-white"
             :class="{ change_color_dropdown: scrollPosition > 50 }"
           >
-            <li>
-              <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
-                >Competencias oficiales de AIChE</a
-              >
-            </li>
             <li>
               <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
                 >Ponencias magistrales</a
@@ -262,7 +252,6 @@ export default {
   border-left: 1px solid #00bfff;
   border-right: 1px solid #00bfff;
   border-bottom: 1px solid #00bfff;
-  /* box-shadow: 1px 2px #00bfff5f; */
   --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1),
     0 8px 10px -6px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color),

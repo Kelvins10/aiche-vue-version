@@ -23,7 +23,7 @@
         </label>
         <ul
           tabindex="0"
-          class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-white rounded-box w-52"
+          class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-white rounded-box w-96"
           :class="{ change_color_dropdown_cell: scrollPosition > 50 }"
         >
           <li>
@@ -33,62 +33,56 @@
               >Inicio</router-link
             >
           </li>
-          <li tabindex="0">
-            <a
-              class="justify-between text-black font-bold active:bg-[#006] active:text-white"
+          <div
+            tabindex="0"
+            class="collapse collapse-plus h-auto w-[366px] rounded-lg active:bg-[#006]"
+          >
+            <input type="checkbox" class="peer hover:bg-black/30" />
+            <div
+              class="h-[36px] collapse-title text-black text-sm font-bold bg-white peer-checked:bg-[#006] peer-checked:text-secondary-content py-[0.5rem]"
             >
               Eventos
-              <svg
-                class="fill-current"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z"
-                />
-              </svg>
-            </a>
-            <ul
-              class="p-2 text-black font-bold bg-white -mx-[175px] mt-10 z-10"
-              :class="{ change_color_dropdown_cell: scrollPosition > 50 }"
+            </div>
+            <div
+              class="collapse-content p-0 active:bg-white peer-checked:bg-white peer-checked:text-secondary-content peer-checked:border-b-[1px] border-[#006]"
             >
-              <li>
-                <a class="active:bg-[#006] active:text-white"
-                  >Ponencias magistrales</a
-                >
-              </li>
-              <li>
-                <a class="active:bg-[#006] active:text-white">Workshops </a>
-              </li>
-              <li>
-                <a class="active:bg-[#006] active:text-white"
-                  >Feria de oportunidades</a
-                >
-              </li>
-              <li>
-                <a class="active:bg-[#006] active:text-white"
-                  >Presentaciones culturales</a
-                >
-              </li>
-              <li>
-                <a class="active:bg-[#006] active:text-white"
-                  >Networking social</a
-                >
-              </li>
-              <li>
-                <a class="active:bg-[#006] active:text-white"
-                  >Compartir de experiencias AIChE</a
-                >
-              </li>
-              <li>
-                <a class="active:bg-[#006] active:text-white"
-                  >Cierre de evento y actividades culturales</a
-                >
-              </li>
-            </ul>
-          </li>
+              <ul class="text-black font-bold bg-white">
+                <li>
+                  <a class="active:bg-[#006] active:text-white"
+                    >Ponencias magistrales</a
+                  >
+                </li>
+                <li>
+                  <a class="active:bg-[#006] active:text-white">Workshops </a>
+                </li>
+                <li>
+                  <a class="active:bg-[#006] active:text-white"
+                    >Feria de oportunidades</a
+                  >
+                </li>
+                <li>
+                  <a class="active:bg-[#006] active:text-white"
+                    >Presentaciones culturales</a
+                  >
+                </li>
+                <li>
+                  <a class="active:bg-[#006] active:text-white"
+                    >Networking social</a
+                  >
+                </li>
+                <li>
+                  <a class="active:bg-[#006] active:text-white"
+                    >Compartir de experiencias AIChE</a
+                  >
+                </li>
+                <li>
+                  <a class="active:bg-[#006] active:text-white"
+                    >Cierre de evento y actividades culturales</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
           <li>
             <router-link
               to="/competencias"
@@ -103,37 +97,6 @@
               >Ponentes</router-link
             >
           </li>
-          <!-- <li tabindex="0">
-            <a
-              class="justify-between text-black font-bold active:bg-[#006] active:text-white"
-            >
-              Ponentes
-              <svg
-                class="fill-current"
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z"
-                />
-              </svg>
-            </a>
-            <ul
-              class="p-2 text-black font-bold bg-white mt-10 z-10"
-              :class="{ change_color_dropdown_cell: scrollPosition > 50 }"
-            >
-              <li>
-                <a class="active:bg-[#006] active:text-white"
-                  >Keynote Speakers
-                </a>
-              </li>
-              <li>
-                <a class="active:bg-[#006] active:text-white">Workshops</a>
-              </li>
-            </ul>
-          </li> -->
           <li>
             <router-link
               to="/cronograma"
@@ -242,39 +205,6 @@
             >Ponentes</router-link
           >
         </li>
-        <!-- <li tabindex="0">
-          <a
-            class="text-black font-bold hover:text-[#00BFFF] active:bg-[#006] active:text-white"
-          >
-            Ponentes
-            <svg
-              class="fill-current text-black hover:text-[#00BFFF] active:bg-[#006] active:text-white"
-              xmlns="http://www.w3.org/2000/svg"
-              width="20"
-              height="20"
-              viewBox="0 0 24 24"
-            >
-              <path
-                d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"
-              />
-            </svg>
-          </a>
-          <ul
-            class="p-2 text-black font-bold bg-white"
-            :class="{ change_color_dropdown: scrollPosition > 50 }"
-          >
-            <li>
-              <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
-                >Keynote Speakers</a
-              >
-            </li>
-            <li>
-              <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
-                >Workshops
-              </a>
-            </li>
-          </ul>
-        </li> -->
         <li>
           <router-link
             to="/cronograma"
@@ -356,5 +286,26 @@ export default {
     var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
   --tw-shadow-color: hsla(195, 100%, 50%, 0.216);
   --tw-shadow: var(--tw-shadow-colored);
+}
+.collapse-plus .collapse-title:after {
+  position: absolute;
+  display: block;
+  height: 0.5rem /* 8px */;
+  width: 0.5rem /* 8px */;
+  transition-property: all;
+  transition-duration: 300ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  top: 0.25rem /* 14.4px */;
+  right: 1.4rem /* 22.4px */;
+  content: "+";
+  pointer-events: none;
+}
+.collapse-title,
+.collapse > input[type="checkbox"] {
+  width: 100%;
+  padding-left: 1rem /* 16px */;
+  padding-right: 3rem /* 48px */;
+  min-height: 1rem /* 60px */;
+  transition: background-color 0.2s ease-in-out;
 }
 </style>

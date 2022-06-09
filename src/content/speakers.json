@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Ph.D. Mario Esparza",
+        "fecha": "Miercoles 9 de junio",
+        "hora": "8:00 am - 9:00 am",
+        "tema": "Minería verde y desarrollo sostenible",
+        "type": "Keynote"
+        
+    },
+    {
+        "id": 2,
+        "name": "José M. González Benegochea",
+        "fecha": "Miercoles 9 de junio",
+        "hora": "9:00 am - 10:30 am",
+        "tema": "La economía circular: la solución a la cuadratura del círculo",
+        "type": "Keynote"
+    },
+    {
+        "id": 3,
+        "name": "Msc. Javier Rey",
+        "fecha": "Miercoles 9 de junio",
+        "hora": "9:00 am - 10:30 am",
+        "tema": "Sostenibilidad alimenticia para implementar economia ",
+        "type": "Keynote"
+    },
+    {
+        "id": 4,
+        "name": "Msc. Víctor Alfonso Alonso Campos",
+        "fecha": "Jueves 10 de junio",
+        "hora": "7:30 pm - 9:00 pm",
+        "tema": "El rol de la ingeniería química para implementar una economia circular desde la industria",
+        "type": "Keynote"
+    },
+    {
+        "id": 5,
+        "name": "Msc. Angie Tatiana Ortega Ramírez",
+        "fecha": "Jueves 10 de junio",
+        "hora": "9:00 am - 10:30 am",
+        "tema": "Estudios de casos para la aplicación de estrategias de Sostenibilidad en la industria ",
+        "type": "Keynote"
+    },
+    {
+        "id": 6,
+        "name": "Msc. Cristina Giraldo",
+        "fecha": "Jueves 10 de junio",
+        "hora": "9:00 am - 10:30 am",
+        "tema": "¿Qué tan verde soy?, introducción a la sostenibilidad y ambiente",
+        "type": "Workshop"
+        
+    },
+    {
+        "id": 7,
+        "name": "Msc. Felipe Correa Mahecha",
+        "fecha": "Jueves 10 de junio",
+        "hora": "3:00 pm - 4:00 pm",
+        "tema": "Las Biorrefinerías, elemento circular en la implementación de la economía circular",
+        "type": "Workshop"
+    },
+    {
+        "id": 8,
+        "name": "Ing. Adriana Palencia",
+        "fecha": "Jueves 10 de junio",
+        "hora": "5:00 pm - 6:30 pm",
+        "tema": "Evaluación del proceso de gasificación del carbón como fuente para la captura de CO2",
+        "type": "Workshop"
+    },
+    {
+        "id": 9,
+        "name": "Yadira Andrea Martinez Vásquez",
+        "fecha": "Jueves 10 de junio",
+        "hora": "6:00 pm - 7:00 pm",
+        "tema": "¿Tratamientos de residuos? Qué pasa en México y algunos paises de Latinoamérica",
+        "type": "Workshop"
+    },
+    {
+        "id": 10,
+        "name": "Msc. Karin Florencio Pérez",
+        "fecha": "Jueves 10 de junio",
+        "hora": "2:00 pm - 3:00 pm",
+        "tema": "Impacto Climático de las aguas residuales",
+        "type": "Workshop"
+    }
+]

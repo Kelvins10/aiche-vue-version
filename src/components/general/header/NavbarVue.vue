@@ -96,7 +96,14 @@
               >Competencias</router-link
             >
           </li>
-          <li tabindex="0">
+          <li>
+            <router-link
+              to="/ponentes"
+              class="text-black font-bold active:bg-[#006] active:text-white"
+              >Ponentes</router-link
+            >
+          </li>
+          <!-- <li tabindex="0">
             <a
               class="justify-between text-black font-bold active:bg-[#006] active:text-white"
             >
@@ -126,7 +133,7 @@
                 <a class="active:bg-[#006] active:text-white">Workshops</a>
               </li>
             </ul>
-          </li>
+          </li> -->
           <li>
             <router-link
               to="/cronograma"
@@ -228,7 +235,14 @@
             >Competencias</router-link
           >
         </li>
-        <li tabindex="0">
+        <li>
+          <router-link
+            to="/ponentes"
+            class="text-black font-bold active:bg-[#006] active:text-white"
+            >Ponentes</router-link
+          >
+        </li>
+        <!-- <li tabindex="0">
           <a
             class="text-black font-bold hover:text-[#00BFFF] active:bg-[#006] active:text-white"
           >
@@ -260,7 +274,7 @@
               </a>
             </li>
           </ul>
-        </li>
+        </li> -->
         <li>
           <router-link
             to="/cronograma"

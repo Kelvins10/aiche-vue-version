@@ -8,13 +8,13 @@
       </h3>
     </div>
 
-    <div class="pb-[10px] text-justify md:text-center">
+    <div class="pb-[10px]">
       <div class="collapse rounded-xl border border-[#006]">
         <input type="checkbox" class="peer" />
         <div
-          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold"
+          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-0"
         >
-          Normas de Bioseguridad
+          Ingreso al Perú
         </div>
         <div
           class="collapse-content bg-white text-white peer-checked:bg-white peer-checked:text-black peer-checked:text-justify"
@@ -33,9 +33,9 @@
       <div class="collapse rounded-xl border border-[#006]">
         <input type="checkbox" class="peer" />
         <div
-          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold"
+          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-4"
         >
-          Normas de Bioseguridad
+          Ingreso al campus de UTEC
         </div>
         <div
           class="collapse-content bg-white text-white peer-checked:bg-white peer-checked:text-black peer-checked:text-justify"
@@ -54,9 +54,9 @@
       <div class="collapse rounded-xl border border-[#006]">
         <input type="checkbox" class="peer" />
         <div
-          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold"
+          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-4"
         >
-          Normas de Bioseguridad
+          Normas de bioseguridad
         </div>
         <div
           class="collapse-content bg-white text-white peer-checked:bg-white peer-checked:text-black peer-checked:text-justify"
@@ -75,7 +75,7 @@
       <div class="collapse rounded-xl border border-[#006]">
         <input type="checkbox" class="peer" />
         <div
-          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold"
+          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-4"
         >
           Consejos
         </div>

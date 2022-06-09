@@ -9,7 +9,7 @@
     </div>
 
     <div class="pb-[10px]">
-      <div class="collapse rounded-xl border border-[#006]">
+      <div class="collapse collapse-plus rounded-xl border border-[#006]">
         <input type="checkbox" class="peer" />
         <div
           class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-0"
@@ -30,7 +30,7 @@
     </div>
 
     <div class="pb-[10px] text-justify md:text-center">
-      <div class="collapse rounded-xl border border-[#006]">
+      <div class="collapse collapse-plus rounded-xl border border-[#006]">
         <input type="checkbox" class="peer" />
         <div
           class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-4"
@@ -51,7 +51,7 @@
     </div>
 
     <div class="pb-[10px] text-justify md:text-center">
-      <div class="collapse rounded-xl border border-[#006]">
+      <div class="collapse collapse-plus rounded-xl border border-[#006]">
         <input type="checkbox" class="peer" />
         <div
           class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-4"
@@ -72,7 +72,7 @@
     </div>
 
     <div class="pb-[10px] text-justify md:text-center">
-      <div class="collapse rounded-xl border border-[#006]">
+      <div class="collapse collapse-plus rounded-xl border border-[#006]">
         <input type="checkbox" class="peer" />
         <div
           class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-4"

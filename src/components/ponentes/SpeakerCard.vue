@@ -19,12 +19,12 @@
 
         <figure>
           <img
-            class="h-52 w-full"
+            class="h-52 w-full object-cover"
             :src="'https://api.lorem.space/image/face?hash=3379' + speaker.id"
-            alt="Shoes"
+            alt="Speaker"
           />
         </figure>
-        <div class="card-body pt-5">
+        <div class="card-body pt-5 md:px-8 px-5">
           <h1 class="card-title text-black">
             {{ speaker.tema }}
           </h1>
@@ -33,7 +33,7 @@
           <div class="flex justify-between font-bold text-[#006]/80">
             <h3>{{ speaker.fecha }}</h3>
             <div
-              class="badge bg-[#00BFFF] border-2 border-[#00BFFF] py-2.5 text-[#006]"
+              class="badge bg-[#00BFFF] border-2 text-xs :text-md border-[#00BFFF] h-auto py-2.5 text-[#006]"
             >
               {{ speaker.hora }}
             </div>

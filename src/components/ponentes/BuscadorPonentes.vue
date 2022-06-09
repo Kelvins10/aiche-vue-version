@@ -3,7 +3,7 @@
     class="xl:px-32 lg:px-20 md:px-14 px-10 bg-white pt-24 flex flex-col items-center"
   >
     <label for="search">
-      <div class="form-control w-[500px]">
+      <div class="form-control md:w-[500px]">
         <div class="input-group">
           <input
             type="text"
@@ -11,6 +11,7 @@
             v-model="term"
             placeholder="Buscar..."
             class="input input-bordered bg-white border-[#006] mb-2 w-full"
+            @keyup.enter="search(term)"
           />
           <button class="btn btn-square bg-[#006]" @click="search(term)">
             <svg
@@ -31,25 +32,27 @@
         </div>
       </div>
     </label>
-    <div class="flex pb-5">
+    <div class="flex pb-5 md:flex-row flex-col items-center">
       <button
-        class="btn btn-outline btn-info w-40 mr-2.5 rounded-full text-xs normal-case"
+        class="btn btn-outline btn-info w-40 mr-2.5 rounded-full text-xs normal-case md:mb-0 mb-2"
         @click="() => filterSpeakers('Todos')"
       >
         Todos
       </button>
-      <button
-        class="btn btn-outline btn-info w-40 mr-2.5 rounded-full text-xs normal-case"
-        @click="() => filterSpeakers('Keynote')"
-      >
-        Keynote Speakers
-      </button>
-      <button
-        class="btn btn-outline btn-info w-40 rounded-full text-xs normal-case"
-        @click="() => filterSpeakers('Workshop')"
-      >
-        Workshops
-      </button>
+      <div class="flex">
+        <button
+          class="btn btn-outline btn-info w-40 mr-2.5 rounded-full text-xs normal-case"
+          @click="() => filterSpeakers('Keynote')"
+        >
+          Keynote Speakers
+        </button>
+        <button
+          class="btn btn-outline btn-info w-40 rounded-full text-xs normal-case"
+          @click="() => filterSpeakers('Workshop')"
+        >
+          Workshops
+        </button>
+      </div>
     </div>
   </div>
 </template>

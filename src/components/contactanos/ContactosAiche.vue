@@ -68,7 +68,7 @@
           </a>
         </div>
       </div>
-      <div class="sm:flex">
+      <div class="sm:flex md:pt-0 pt-2">
         <img
           class="w-[580px] sm:ml-auto sm:mr-auto sm:pt-5"
           src="../../assets/contactanos/mensaje.jpg"

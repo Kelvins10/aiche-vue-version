@@ -219,7 +219,7 @@
     <div class="navbar-end">
       <router-link
         to="/inscripciones"
-        class="btn bg-[#00BFFF] text-white normal-case border-none hover:bg-[#006]"
+        class="btn hover:bg-[#00BFFF] text-white normal-case border-none bg-[#006]"
         >Inscripciones</router-link
       >
     </div>

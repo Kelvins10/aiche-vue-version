@@ -12,7 +12,7 @@
     <div class="flex justify-center pt-5 w-full pb-10">
       <img
         class="shadow-md shadow-[#231f20] rounded-xl border border-[#231f20]"
-        src="../../assets/img-cronograma/horario1.jpg"
+        src="../../assets/cronograma/horario1.jpg"
         alt=""
       />
     </div>

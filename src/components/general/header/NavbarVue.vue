@@ -1,5 +1,8 @@
 <template>
-  <div class="navbar bg-white">
+  <div
+    class="navbar bg-white fixed z-20"
+    :class="{ change_color: scrollPosition > 50 }"
+  >
     <div class="navbar-start">
       <div class="dropdown">
         <label tabindex="0" class="btn btn-ghost xl:hidden">
@@ -147,7 +150,10 @@
               />
             </svg>
           </a>
-          <ul class="p-2 text-black font-bold bg-white">
+          <ul
+            class="p-2 text-black font-bold bg-white"
+            :class="{ change_color_dropdown: scrollPosition > 50 }"
+          >
             <li>
               <a class="hover:text-[#00BFFF] active:bg-[#006] active:text-white"
                 >Competencias oficiales de AIChE</a
@@ -223,7 +229,7 @@
     <div class="navbar-end">
       <router-link
         to="/inscripciones"
-        class="btn bg-[#00BFFF] text-white normal-case border-none"
+        class="btn bg-[#00BFFF] text-white normal-case border-none hover:bg-[#006]"
         >Inscripciones</router-link
       >
     </div>
@@ -231,7 +237,39 @@
 </template>
 
 <script>
-export default {};
+export default {
+  data() {
+    return {
+      scrollPosition: null,
+    };
+  },
+  methods: {
+    updateScroll() {
+      this.scrollPosition = window.scrollY;
+    },
+  },
+  mounted() {
+    window.addEventListener("scroll", this.updateScroll);
+  },
+};
 </script>
 
-<style></style>
+<style scoped>
+.change_color {
+  border-bottom: 1px solid #00bfff;
+}
+.change_color_dropdown {
+  border-left: 1px solid #00bfff;
+  border-right: 1px solid #00bfff;
+  border-bottom: 1px solid #00bfff;
+  /* box-shadow: 1px 2px #00bfff5f; */
+  --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1),
+    0 8px 10px -6px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color),
+    0 8px 10px -6px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+    var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  --tw-shadow-color: hsla(195, 100%, 50%, 0.216);
+  --tw-shadow: var(--tw-shadow-colored);
+}
+</style>

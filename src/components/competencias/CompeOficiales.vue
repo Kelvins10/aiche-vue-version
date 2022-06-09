@@ -13,12 +13,12 @@
           <div class="image">
             <img
               class="ab-bw"
-              src="../../assets/img-competencias/experience.-bw.png"
+              src="../../assets/competencias/experience.-bw.png"
               alt=""
             />
             <img
               class="ab-img"
-              src="../../assets/img-competencias/experience.png"
+              src="../../assets/competencias/experience.png"
               alt=""
             />
           </div>
@@ -41,12 +41,12 @@
           <div class="image">
             <img
               class="ab-bw"
-              src="../../assets/img-competencias/tech-bw.png"
+              src="../../assets/competencias/tech-bw.png"
               alt=""
             />
             <img
               class="ab-img"
-              src="../../assets/img-competencias/tech.png"
+              src="../../assets/competencias/tech.png"
               alt=""
             />
           </div>
@@ -69,12 +69,12 @@
           <div class="image">
             <img
               class="ab-bw"
-              src="../../assets/img-competencias/responsibility-bw.png"
+              src="../../assets/competencias/responsibility-bw.png"
               alt=""
             />
             <img
               class="ab-img"
-              src="../../assets/img-competencias/responsibility.png"
+              src="../../assets/competencias/responsibility.png"
               alt=""
             />
           </div>
@@ -99,12 +99,12 @@
           <div class="image">
             <img
               class="ab-bw"
-              src="../../assets/img-competencias/experience.-bw.png"
+              src="../../assets/competencias/experience.-bw.png"
               alt=""
             />
             <img
               class="ab-img"
-              src="../../assets/img-competencias/experience.png"
+              src="../../assets/competencias/experience.png"
               alt=""
             />
           </div>

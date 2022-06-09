@@ -51,7 +51,7 @@
               </svg>
             </a>
             <ul
-              class="p-2 text-black font-bold bg-white -mx-12 mt-10 z-10"
+              class="p-2 text-black font-bold bg-white -mx-[175px] mt-10 z-10"
               :class="{ change_color_dropdown_cell: scrollPosition > 50 }"
             >
               <li>

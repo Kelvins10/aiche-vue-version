@@ -3,7 +3,7 @@
     <section
       class="flex h-[420px] w-auto items-center justify-center flex-col text-center text-white"
     >
-      <h1 class="text-[40px] font-bold pb-6">COMPETENCIAS</h1>
+      <h1 class="text-[40px] font-bold">CRONOGRAMA</h1>
     </section>
     <div class="bottom-0 w-full" style="height: 150px; overflow: hidden">
       <svg
@@ -27,15 +27,13 @@ export default {};
       hsla(240, 100%, 20%, 0.459),
       hsla(195, 100%, 50%, 0.664)
     ),
-    url(../../assets/img-competencias/Portada.jpg); /* Chrome 10-25, Safari 5.1-6 */
+    url(../../assets/img-cronograma/Portada.jpg); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
       to right,
       hsla(240, 100%, 20%, 0.459),
       hsla(195, 100%, 50%, 0.664)
     ),
-    url(../../assets/img-competencias/Portada.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    url(../../assets/img-cronograma/Portada.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-size: cover;
 }
 </style>
-
-

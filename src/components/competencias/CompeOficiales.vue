@@ -6,9 +6,9 @@
       </h1>
     </div>
     <div class="flex flex-wrap justify-evenly pb-10 m-auto">
-      <div class="p-5 md:px-1 flex">
+      <div class="p-5 md:px-3 flex">
         <div
-          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black 2xl:w-80"
+          class="ab-pillar relative pt-10 w-full card bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
           <div class="image">
             <img
@@ -34,9 +34,9 @@
         </div>
       </div>
 
-      <div class="p-5 md:px-1 flex">
+      <div class="p-5 md:px-3 flex">
         <div
-          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black 2xl:w-80"
+          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
           <div class="image">
             <img
@@ -62,9 +62,9 @@
         </div>
       </div>
 
-      <div class="p-5 md:px-1 flex">
+      <div class="p-5 md:px-3 flex">
         <div
-          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black 2xl:w-80"
+          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
           <div class="image">
             <img
@@ -92,9 +92,9 @@
         </div>
       </div>
 
-      <div class="p-5 md:px-1 flex">
+      <div class="p-5 md:px-3 flex">
         <div
-          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black 2xl:w-80"
+          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
           <div class="image">
             <img

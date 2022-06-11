@@ -8,86 +8,206 @@
       </h3>
     </div>
 
-    <div class="pb-[10px]">
-      <div class="collapse collapse-plus rounded-xl border border-[#006]">
+    <div class="pb-[10px] md:text-justify">
+      <div class="collapse collapse-plus rounded-xl border border-[#00bffe]">
         <input type="checkbox" class="peer" />
         <div
-          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-0"
+          class="collapse-title font-bold text-black text-base sm:text-lg peer-checked: peer-checked:text-black peer-checked:font-bold px-4"
         >
           Ingreso al Perú
         </div>
         <div
-          class="collapse-content bg-white text-white peer-checked:bg-white peer-checked:text-black peer-checked:text-justify"
+          class="collapse-content text-white peer-checked: peer-checked:text-black peer-checked:text-justify"
         >
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-            esse quaerat qui cupiditate sed, possimus, ab asperiores ad
-            molestias nesciunt sequi alias. Ullam officia facere temporibus rem
-            blanditiis quas magni.
-          </p>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
         </div>
       </div>
     </div>
 
-    <div class="pb-[10px] text-justify md:text-center">
-      <div class="collapse collapse-plus rounded-xl border border-[#006]">
+    <div class="pb-[10px] md:text-justify">
+      <div class="collapse collapse-plus rounded-xl border border-[#00bffe]">
         <input type="checkbox" class="peer" />
         <div
-          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-4"
+          class="collapse-title font-bold text-black text-base sm:text-lg peer-checked: peer-checked:text-black peer-checked:font-bold px-4"
         >
           Ingreso al campus de UTEC
         </div>
         <div
-          class="collapse-content bg-white text-white peer-checked:bg-white peer-checked:text-black peer-checked:text-justify"
+          class="collapse-content text-white peer-checked: peer-checked:text-black peer-checked:text-justify"
         >
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-            esse quaerat qui cupiditate sed, possimus, ab asperiores ad
-            molestias nesciunt sequi alias. Ullam officia facere temporibus rem
-            blanditiis quas magni.
-          </p>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
         </div>
       </div>
     </div>
 
-    <div class="pb-[10px] text-justify md:text-center">
-      <div class="collapse collapse-plus rounded-xl border border-[#006]">
+    <div class="pb-[10px] md:text-justify">
+      <div class="collapse collapse-plus rounded-xl border border-[#00bffe]">
         <input type="checkbox" class="peer" />
         <div
-          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-4"
+          class="collapse-title font-bold text-black text-base sm:text-lg peer-checked: peer-checked:text-black peer-checked:font-bold px-4"
         >
           Normas de bioseguridad
         </div>
         <div
-          class="collapse-content bg-white text-white peer-checked:bg-white peer-checked:text-black peer-checked:text-justify"
+          class="collapse-content text-white peer-checked: peer-checked:text-black peer-checked:text-justify"
         >
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-            esse quaerat qui cupiditate sed, possimus, ab asperiores ad
-            molestias nesciunt sequi alias. Ullam officia facere temporibus rem
-            blanditiis quas magni.
-          </p>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
         </div>
       </div>
     </div>
 
-    <div class="pb-[10px] text-justify md:text-center">
-      <div class="collapse collapse-plus rounded-xl border border-[#006]">
+    <div class="pb-[20px] md:text-justify">
+      <div class="collapse collapse-plus rounded-xl border border-[#00bffe]">
         <input type="checkbox" class="peer" />
         <div
-          class="collapse-title bg-white font-bold text-black text-lg peer-checked:bg-white peer-checked:text-black peer-checked:font-bold text-center px-4"
+          class="collapse-title font-bold text-black text-base sm:text-lg peer-checked: peer-checked:text-black peer-checked:font-bold px-4"
         >
           Consejos
         </div>
         <div
-          class="collapse-content bg-white text-white peer-checked:bg-white peer-checked:text-black peer-checked:text-justify"
+          class="collapse-content text-white peer-checked: peer-checked:text-black peer-checked:text-justify"
         >
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-            esse quaerat qui cupiditate sed, possimus, ab asperiores ad
-            molestias nesciunt sequi alias. Ullam officia facere temporibus rem
-            blanditiis quas magni.
-          </p>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
+          <div class="flex items-center px-5 pb-2">
+            <img
+              class="pr-5"
+              src="../../assets/protocolos/bx-check.svg"
+              alt=""
+            />
+
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
+              esse quaerat qui cupiditate sed, possimus, ab asperiores.
+            </p>
+          </div>
         </div>
       </div>
     </div>

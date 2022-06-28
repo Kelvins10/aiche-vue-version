@@ -2,8 +2,10 @@
   <div
     class="xl:px-32 lg:px-20 md:px-14 px-10 bg-white pt-5 pb-5 sm:flex-col sm:justify-center"
   >
-    <div class="lg:flex lg:justify-center">
-      <div class="m-auto border border-[#fff] shadow-xl p-10 rounded-lg">
+    <div class="flex flex-wrap lg:justify-center h-auto">
+      <div
+        class="m-auto border border-[#fff] shadow-xl p-10 rounded-lg md:w-[60%] w-full"
+      >
         <h1 class="text-center text-[#006] text-3xl font-bold pb-5">
           ¿Tienes alguna duda?
         </h1>
@@ -68,10 +70,12 @@
           </a>
         </div>
       </div>
-      <div class="sm:flex xl:pt-0 pt-10 pl-2">
+      <div
+        class="sm:flex xl:pt-0 pt-10 pl-2 md:w-2/6 m-auto md:visible invisible w-0"
+      >
         <img
-          class="w-[580px] sm:ml-auto sm:mr-auto sm:pt-8 md:pt-0"
-          src="../../assets/contactanos/mensaje.jpg"
+          class="sm:ml-auto sm:mr-auto sm:pt-8 md:pt-0"
+          src="../../assets/contactanos/circular-logo-aiche.png"
           alt=""
         />
       </div>

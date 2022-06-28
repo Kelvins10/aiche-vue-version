@@ -23,7 +23,7 @@
         </label>
         <ul
           tabindex="0"
-          class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-white rounded-box w-96"
+          class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-white rounded-box sm:w-96 w-[370px]"
           :class="{ change_color_dropdown_cell: scrollPosition > 50 }"
         >
           <li>
@@ -121,7 +121,10 @@
         </ul>
       </div>
       <router-link to="/" class="btn btn-ghost h-16"
-        ><img src="../../../assets/LogoAIChE.png" alt="LogoAIChE" class="w-48"
+        ><img
+          src="../../../assets/LogoAIChE.png"
+          alt="LogoAIChE"
+          class="sm:w-48 w-40"
       /></router-link>
     </div>
     <div class="navbar-center hidden xl:flex">

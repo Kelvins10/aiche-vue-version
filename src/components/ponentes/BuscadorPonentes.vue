@@ -4,32 +4,14 @@
   >
     <label for="search">
       <div class="form-control md:w-[500px]">
-        <div class="input-group">
-          <input
-            type="text"
-            id="search"
-            v-model="term"
-            placeholder="Buscar..."
-            class="input input-bordered bg-white border-[#006] mb-2 w-full"
-            @keyup.enter="search(term)"
-          />
-          <button class="btn btn-square bg-[#006]" @click="search(term)">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              class="h-6 w-6"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="white"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-              />
-            </svg>
-          </button>
-        </div>
+        <input
+          type="text"
+          id="search"
+          v-model="term"
+          placeholder="Buscar..."
+          class="w-full bg-white border-[#006] mb-2 input input-primary input-bordered"
+          @input="search(term)"
+        />
       </div>
     </label>
     <div class="flex pb-5 md:flex-row flex-col items-center">

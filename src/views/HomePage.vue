@@ -1,7 +1,9 @@
 <template>
-  <banner-component />
-  <about-component />
-  <address-component />
+  <div class="pt-16">
+    <banner-component />
+    <about-component />
+    <address-component />
+  </div>
 </template>
 
 <script>

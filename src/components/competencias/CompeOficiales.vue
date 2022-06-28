@@ -6,7 +6,7 @@
       </h1>
     </div>
     <div class="flex flex-wrap justify-evenly pb-10 m-auto">
-      <div class="p-5 md:px-3 flex">
+      <label for="my-modal-1" class="p-5 md:px-3 flex cursor-pointer">
         <div
           class="ab-pillar relative pt-10 w-full card bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
@@ -32,9 +32,83 @@
             </p>
           </div>
         </div>
-      </div>
+      </label>
+      <input type="checkbox" id="my-modal-1" class="modal-toggle" />
+      <label for="my-modal-1" class="modal cursor-pointer">
+        <label class="modal-box relative bg-[#006]/90" for="">
+          <h3 class="text-lg font-bold text-center text-white pb-3">
+            ChemE Joepardy
+          </h3>
+          <div class="carousel w-full md:max-h-96 max-h-60">
+            <div id="1_slide1" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/UTEC_campus.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#1_slide4" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#1_slide2" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="1_slide2" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-garage.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#1_slide1" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#1_slide3" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="1_slide3" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-lab2.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#1_slide2" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#1_slide4" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="1_slide4" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-lab3.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#1_slide3" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#1_slide1" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+          </div>
+        </label>
+      </label>
 
-      <div class="p-5 md:px-3 flex">
+      <label for="my-modal-2" class="p-5 md:px-3 flex cursor-pointer">
         <div
           class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
@@ -51,7 +125,7 @@
             />
           </div>
           <div class="card-body">
-            <h2 class="text-center text-xl font-bold pt-3">ChemE car</h2>
+            <h2 class="text-center text-xl font-bold pt-3">ChemE Car</h2>
             <p class="text-justify">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut
               voluptate eveniet voluptatibus optio rem eos neque quisquam
@@ -60,9 +134,83 @@
             </p>
           </div>
         </div>
-      </div>
+      </label>
+      <input type="checkbox" id="my-modal-2" class="modal-toggle" />
+      <label for="my-modal-2" class="modal cursor-pointer">
+        <label class="modal-box relative bg-[#006]/90" for="">
+          <h3 class="text-lg font-bold text-center text-white pb-3">
+            ChemE Car
+          </h3>
+          <div class="carousel w-full md:max-h-96 max-h-60">
+            <div id="2_slide1" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/UTEC_campus.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#2_slide4" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#2_slide2" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="2_slide2" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-garage.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#2_slide1" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#2_slide3" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="2_slide3" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-lab2.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#2_slide2" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#2_slide4" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="2_slide4" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-lab3.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#2_slide3" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#2_slide1" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+          </div>
+        </label>
+      </label>
 
-      <div class="p-5 md:px-3 flex">
+      <label for="my-modal-3" class="p-5 md:px-3 flex cursor-pointer">
         <div
           class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
@@ -90,9 +238,83 @@
             </p>
           </div>
         </div>
-      </div>
+      </label>
+      <input type="checkbox" id="my-modal-3" class="modal-toggle" />
+      <label for="my-modal-3" class="modal cursor-pointer">
+        <label class="modal-box relative bg-[#006]/90" for="">
+          <h3 class="text-lg font-bold text-center text-white pb-3">
+            Paper Competition
+          </h3>
+          <div class="carousel w-full md:max-h-96 max-h-60">
+            <div id="3_slide1" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/UTEC_campus.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#3_slide4" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#3_slide2" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="3_slide2" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-garage.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#3_slide1" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#3_slide3" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="3_slide3" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-lab2.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#3_slide2" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#3_slide4" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="3_slide4" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-lab3.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#3_slide3" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#3_slide1" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+          </div>
+        </label>
+      </label>
 
-      <div class="p-5 md:px-3 flex">
+      <label for="my-modal-3" class="p-5 md:px-3 flex cursor-pointer">
         <div
           class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
@@ -120,7 +342,81 @@
             </p>
           </div>
         </div>
-      </div>
+      </label>
+      <input type="checkbox" id="my-modal-3" class="modal-toggle" />
+      <label for="my-modal-3" class="modal cursor-pointer">
+        <label class="modal-box relative bg-[#006]/90" for="">
+          <h3 class="text-lg font-bold text-center text-white pb-3">
+            Poster Competition
+          </h3>
+          <div class="carousel w-full md:max-h-96 max-h-60">
+            <div id="4_slide1" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/UTEC_campus.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#4_slide4" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#4_slide2" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="4_slide2" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-garage.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#4_slide1" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#4_slide3" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="4_slide3" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-lab2.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#4_slide2" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#4_slide4" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+            <div id="4_slide4" class="carousel-item relative w-full">
+              <img
+                src="@/assets/home/utec/utec-lab3.jpg"
+                class="w-full object-cover"
+              />
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#4_slide3" class="btn btn-circle bg-[#006] border-none"
+                  >❮</a
+                >
+                <a href="#4_slide1" class="btn btn-circle bg-[#006] border-none"
+                  >❯</a
+                >
+              </div>
+            </div>
+          </div>
+        </label>
+      </label>
     </div>
   </div>
 </template>

@@ -11,14 +11,9 @@
 import BuscadorPonentes from "@/components/ponentes/BuscadorPonentes.vue";
 import speakersData from "../content/speakers.json";
 import SpeakerCard from "@/components/ponentes/SpeakerCard.vue";
+import { stringContain } from "@/utils/functions";
 export default {
   components: { BuscadorPonentes, SpeakerCard },
-  // computed: {
-  //   speakers() {
-  //     const SPEAKERS = speakers;
-  //     return SPEAKERS;
-  //   },
-  // },
   data() {
     return {
       speakers: speakersData,
@@ -39,10 +34,10 @@ export default {
       this.resetSpeakers();
       this.speakers = this.speakers.filter((speaker) => {
         return (
-          speaker.tema.toLowerCase().includes(term.toLowerCase()) ||
-          speaker.name.toLowerCase().includes(term.toLowerCase()) ||
-          speaker.fecha.toLowerCase().includes(term.toLowerCase()) ||
-          speaker.hora.toLowerCase().includes(term.toLowerCase())
+          stringContain(speaker.tema, term) ||
+          stringContain(speaker.name, term) ||
+          stringContain(speaker.fecha, term) ||
+          stringContain(speaker.hora, term)
         );
       });
     },

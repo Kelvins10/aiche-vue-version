@@ -5,8 +5,8 @@
         "fecha": "Miercoles 9 de junio",
         "hora": "8:00 am - 9:00 am",
         "tema": "Minería verde y desarrollo sostenible",
-        "type": "Keynote"
-        
+        "type": "Keynote",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
     },
     {
         "id": 2,
@@ -14,7 +14,8 @@
         "fecha": "Miercoles 9 de junio",
         "hora": "9:00 am - 10:30 am",
         "tema": "La economía circular: la solución a la cuadratura del círculo",
-        "type": "Keynote"
+        "type": "Keynote",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
     },
     {
         "id": 3,
@@ -22,7 +23,8 @@
         "fecha": "Miercoles 9 de junio",
         "hora": "9:00 am - 10:30 am",
         "tema": "Sostenibilidad alimenticia para implementar economia ",
-        "type": "Keynote"
+        "type": "Keynote",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
     },
     {
         "id": 4,
@@ -30,7 +32,8 @@
         "fecha": "Jueves 10 de junio",
         "hora": "7:30 pm - 9:00 pm",
         "tema": "El rol de la ingeniería química para implementar una economia circular",
-        "type": "Keynote"
+        "type": "Keynote",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
     },
     {
         "id": 5,
@@ -38,7 +41,8 @@
         "fecha": "Jueves 10 de junio",
         "hora": "9:00 am - 10:30 am",
         "tema": "Estudios de casos para la aplicación de estrategias de Sostenibilidad ",
-        "type": "Keynote"
+        "type": "Keynote",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
     },
     {
         "id": 6,
@@ -46,7 +50,8 @@
         "fecha": "Jueves 10 de junio",
         "hora": "9:00 am - 10:30 am",
         "tema": "¿Qué tan verde soy?, introducción a la sostenibilidad y ambiente",
-        "type": "Workshop"
+        "type": "Workshop",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
         
     },
     {
@@ -55,7 +60,8 @@
         "fecha": "Jueves 10 de junio",
         "hora": "3:00 pm - 4:00 pm",
         "tema": "Las Biorrefinerías, para la implementación de la economía circular",
-        "type": "Workshop"
+        "type": "Workshop",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
     },
     {
         "id": 8,
@@ -63,7 +69,8 @@
         "fecha": "Jueves 10 de junio",
         "hora": "5:00 pm - 6:30 pm",
         "tema": "Evaluación del proceso de gasificación del carbón para la captura de CO2",
-        "type": "Workshop"
+        "type": "Workshop",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
     },
     {
         "id": 9,
@@ -71,7 +78,8 @@
         "fecha": "Jueves 10 de junio",
         "hora": "6:00 pm - 7:00 pm",
         "tema": "¿Tratamientos de residuos? Qué pasa en México y Latinoamérica",
-        "type": "Workshop"
+        "type": "Workshop",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
     },
     {
         "id": 10,
@@ -79,6 +87,7 @@
         "fecha": "Jueves 10 de junio",
         "hora": "2:00 pm - 3:00 pm",
         "tema": "Impacto Climático de las aguas residuales",
-        "type": "Workshop"
+        "type": "Workshop",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
     }
 ]

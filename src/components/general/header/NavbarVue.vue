@@ -1,6 +1,6 @@
 <template>
   <div
-    class="navbar bg-white fixed z-20"
+    class="navbar bg-white fixed z-20 h-20"
     :class="{ change_color: scrollPosition > 50 }"
   >
     <div class="navbar-start">
@@ -33,7 +33,7 @@
               >Inicio</router-link
             >
           </li>
-          <div
+          <!-- <div
             tabindex="0"
             class="collapse collapse-plus h-auto w-[366px] rounded-lg active:bg-[#006]"
           >
@@ -82,7 +82,7 @@
                 </li>
               </ul>
             </div>
-          </div>
+          </div> -->
           <li>
             <router-link
               to="/competencias"
@@ -120,8 +120,8 @@
           </li>
         </ul>
       </div>
-      <router-link to="/" class="btn btn-ghost"
-        ><img src="../../../assets/LogoAIChE.png" alt="LogoAIChE" class="w-36"
+      <router-link to="/" class="btn btn-ghost h-16"
+        ><img src="../../../assets/LogoAIChE.png" alt="LogoAIChE" class="w-48"
       /></router-link>
     </div>
     <div class="navbar-center hidden xl:flex">
@@ -133,7 +133,7 @@
             >Inicio</router-link
           >
         </li>
-        <li tabindex="0">
+        <!-- <li tabindex="0">
           <a
             class="text-black font-bold hover:text-[#00BFFF] active:bg-[#006] active:text-white"
           >
@@ -190,7 +190,7 @@
               >
             </li>
           </ul>
-        </li>
+        </li> -->
         <li>
           <router-link
             to="/competencias"

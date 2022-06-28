@@ -3,11 +3,13 @@
     <section
       class="flex h-[430px] w-auto items-center justify-center flex-col text-center text-white"
     >
-      <h1 class="text-5xl font-bold pb-6">PROCESA 2022</h1>
-      <h2 class="text-3xl font-extralight pb-1">
+      <h1 class="md:text-7xl text-5xl font-bold pb-6">PROCESA 2022</h1>
+      <h2 class="md:text-5xl text-3xl font-extralight pb-1">
         4th AIChE Latin America Student Regional Conference
       </h2>
-      <h3 class="text-xl font-bold">4 al 6 de Agosto del 2022</h3>
+      <h3 class="md:text-4xl text-2xl font-bold pt-5">
+        4 al 6 de Agosto del 2022
+      </h3>
     </section>
     <div class="bottom-0 w-full" style="height: 150px; overflow: hidden">
       <svg

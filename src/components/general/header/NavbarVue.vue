@@ -23,7 +23,7 @@
         </label>
         <ul
           tabindex="0"
-          class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-white rounded-box sm:w-96 w-[370px]"
+          class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-white rounded-box sm:w-96 w-[372px]"
           :class="{ change_color_dropdown_cell: scrollPosition > 50 }"
         >
           <li>

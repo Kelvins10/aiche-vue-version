@@ -1,93 +1,93 @@
 [
     {
         "id": 1,
-        "name": "Ph.D. Mario Esparza",
-        "fecha": "Miercoles 9 de junio",
-        "hora": "8:00 am - 9:00 am",
-        "tema": "Minería verde y desarrollo sostenible",
+        "name": "Juan Gabriel Segovia Hernandez",
+        "especialidad": "Doctor en Ingeniería Química - Instituto Nacional de Guadalajara",
+        "fecha": "Jueves 4 de agosto",
+        "hora": "",
+        "tema": "",
         "type": "Keynote",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
+        "description": ""
     },
     {
         "id": 2,
-        "name": "José M. González Benegochea",
-        "fecha": "Miercoles 9 de junio",
-        "hora": "9:00 am - 10:30 am",
-        "tema": "La economía circular: la solución a la cuadratura del círculo",
+        "name": "Alejandro Molina Ochoa",
+        "especialidad": "Doctor en Ingeniería Química - Universidad Nacional de Colombia",
+        "fecha": "Viernes 5 de agosto",
+        "hora": "",
+        "tema": "",
         "type": "Keynote",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
+        "description": ""
     },
     {
         "id": 3,
-        "name": "Msc. Javier Rey",
-        "fecha": "Miercoles 9 de junio",
-        "hora": "9:00 am - 10:30 am",
-        "tema": "Sostenibilidad alimenticia para implementar economia ",
+        "name": "Adrian Cordova Melendez",
+        "especialidad": "Ingeniero Químico - Grupo Cobra",
+        "fecha": "Jueves 4 de agosto",
+        "hora": "",
+        "tema": "",
         "type": "Keynote",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
+        "description": ""
     },
     {
         "id": 4,
-        "name": "Msc. Víctor Alfonso Alonso Campos",
-        "fecha": "Jueves 10 de junio",
-        "hora": "7:30 pm - 9:00 pm",
-        "tema": "El rol de la ingeniería química para implementar una economia circular",
-        "type": "Keynote",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
+        "name": "Francisco Tarazon Vasquez",
+        "especialidad": "PhD. en Ingeniería Química - Texas A&M University ",
+        "fecha": "Jueves 4 de agosto",
+        "hora": "10:30 am - 12:30 pm",
+        "tema": "",
+        "type": "Workshop",
+        "description": ""
     },
     {
         "id": 5,
-        "name": "Msc. Angie Tatiana Ortega Ramírez",
-        "fecha": "Jueves 10 de junio",
-        "hora": "9:00 am - 10:30 am",
-        "tema": "Estudios de casos para la aplicación de estrategias de Sostenibilidad ",
-        "type": "Keynote",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
+        "name": "William Ramos",
+        "especialidad": "Ingeniero petroquímico - Universidad Nacional de Ingeniería",
+        "fecha": "Viernes 5 de agosto",
+        "hora": "10:30 am - 12:30 pm",
+        "tema": "",
+        "type": "Workshop",
+        "description": ""
     },
     {
         "id": 6,
-        "name": "Msc. Cristina Giraldo",
-        "fecha": "Jueves 10 de junio",
-        "hora": "9:00 am - 10:30 am",
-        "tema": "¿Qué tan verde soy?, introducción a la sostenibilidad y ambiente",
+        "name": "Ursula Rodriguez Zuñiga",
+        "especialidad": "PhD. en Ingeniería Química - Universidad de Sao Paulo",
+        "fecha": "Jueves 4 de agosto",
+        "hora": "10:30 am - 12:30 pm",
+        "tema": "",
         "type": "Workshop",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
+        "description": ""
         
     },
     {
         "id": 7,
-        "name": "Msc. Felipe Correa Mahecha",
-        "fecha": "Jueves 10 de junio",
-        "hora": "3:00 pm - 4:00 pm",
-        "tema": "Las Biorrefinerías, para la implementación de la economía circular",
+        "name": "Catherine Benavente",
+        "especialidad": "Ingeniera química especialista en corrosión del sector hidrocarburos - COGA",
+        "fecha": "Jueves 4 de agosto",
+        "hora": "10:30 am - 12:30 pm",
+        "tema": "",
         "type": "Workshop",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
+        "description": ""
     },
     {
         "id": 8,
-        "name": "Ing. Adriana Palencia",
-        "fecha": "Jueves 10 de junio",
-        "hora": "5:00 pm - 6:30 pm",
-        "tema": "Evaluación del proceso de gasificación del carbón para la captura de CO2",
+        "name": "Ursula Reynoso Cuestas",
+        "especialidad": "Ingeniera química especialista en producción de gases especiales - Consultora",
+        "fecha": "Viernes 5 de agosto",
+        "hora": "10:30 am - 12:30 pm",
+        "tema": "",
         "type": "Workshop",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
+        "description": ""
     },
     {
         "id": 9,
-        "name": "Yadira Andrea Martinez Vásquez",
-        "fecha": "Jueves 10 de junio",
-        "hora": "6:00 pm - 7:00 pm",
-        "tema": "¿Tratamientos de residuos? Qué pasa en México y Latinoamérica",
+        "name": "Silvia Espíritu",
+        "especialidad": "Ingeniera química y Coach, IAC Perú Chapter, CEO en Iri Astral",
+        "fecha": "Jueves 4 de agosto",
+        "hora": "10:30 am - 12:30 pm",
+        "tema": "",
         "type": "Workshop",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
-    },
-    {
-        "id": 10,
-        "name": "Msc. Karin Florencio Pérez",
-        "fecha": "Jueves 10 de junio",
-        "hora": "2:00 pm - 3:00 pm",
-        "tema": "Impacto Climático de las aguas residuales",
-        "type": "Workshop",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem!"
+        "description": ""
     }
 ]

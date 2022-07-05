@@ -6,8 +6,9 @@
       ¿Dónde se va a realizar?
     </h2>
     <p class="font-normal text-justify mb-3 text-black">
-      Este 2022, la Universidad anfitriona será la Universidad de Ingeniería y
-      Tecnologia (UTEC).
+      En esta edición del PROCESA, la universidad anfitriona es la Universidad
+      de Ingeniería y Tecnología - UTEC que se encuentra ubicada en el distrito
+      de Barranco en Lima, Perú. ¡El evento será 100% presencial!
     </p>
     <div class="carousel w-full md:max-h-96 max-h-60">
       <div id="slide1" class="carousel-item relative w-full">

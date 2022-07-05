@@ -12,23 +12,24 @@
         >
           <div class="image">
             <img
-              class="ab-bw"
+              class="ab-bw pt-3"
               src="../../assets/competencias/experience.-bw.png"
               alt=""
             />
             <img
-              class="ab-img"
+              class="ab-img pt-3"
               src="../../assets/competencias/experience.png"
               alt=""
             />
           </div>
           <div class="card-body">
-            <h2 class="text-center text-xl font-bold pt-3">ChemE Joepardy</h2>
+            <h2 class="text-center text-xl font-bold pt-6">ChemE Joepardy</h2>
             <p class="text-justify">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut
-              voluptate eveniet voluptatibus optio rem eos neque quisquam
-              laboriosam, explicabo eaque commodi quaerat facilis. Numquam vitae
-              suscipit eius mollitia provident modi!
+              Es un concurso oficial de AIChE de conocimientos y estrategia
+              sobre ingeniería química y afines, donde nosotros te damos las
+              respuestas y tú debes formular la pregunta de manera correcta. Los
+              ganadores representarán a la región de Latinoamérica en la
+              Conferencia Anual de estudiantes de AIChE en EE.UU.
             </p>
           </div>
         </div>
@@ -42,13 +43,13 @@
           <div class="carousel w-full md:max-h-96 max-h-60">
             <div id="1_slide1" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/UTEC_campus.jpg"
+                src="@/assets/competencias/jeopardy1.jpg"
                 class="w-full object-cover"
               />
               <div
                 class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
               >
-                <a href="#1_slide4" class="btn btn-circle bg-[#006] border-none"
+                <a href="#1_slide3" class="btn btn-circle bg-[#006] border-none"
                   >❮</a
                 >
                 <a href="#1_slide2" class="btn btn-circle bg-[#006] border-none"
@@ -58,7 +59,7 @@
             </div>
             <div id="1_slide2" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/utec/utec-garage.jpg"
+                src="@/assets/competencias/jeopardy2.jpg"
                 class="w-full object-cover"
               />
               <div
@@ -74,7 +75,7 @@
             </div>
             <div id="1_slide3" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/utec/utec-lab2.jpg"
+                src="@/assets/competencias/jeopardy3.jpg"
                 class="w-full object-cover"
               />
               <div
@@ -83,12 +84,12 @@
                 <a href="#1_slide2" class="btn btn-circle bg-[#006] border-none"
                   >❮</a
                 >
-                <a href="#1_slide4" class="btn btn-circle bg-[#006] border-none"
+                <a href="#1_slide1" class="btn btn-circle bg-[#006] border-none"
                   >❯</a
                 >
               </div>
             </div>
-            <div id="1_slide4" class="carousel-item relative w-full">
+            <!-- <div id="1_slide4" class="carousel-item relative w-full">
               <img
                 src="@/assets/home/utec/utec-lab3.jpg"
                 class="w-full object-cover"
@@ -103,7 +104,7 @@
                   >❯</a
                 >
               </div>
-            </div>
+            </div> -->
           </div>
         </label>
       </label>
@@ -114,23 +115,25 @@
         >
           <div class="image">
             <img
-              class="ab-bw"
+              class="ab-bw pt-3"
               src="../../assets/competencias/tech-bw.png"
               alt=""
             />
             <img
-              class="ab-img"
+              class="ab-img pt-3"
               src="../../assets/competencias/tech.png"
               alt=""
             />
           </div>
           <div class="card-body">
-            <h2 class="text-center text-xl font-bold pt-3">ChemE Car</h2>
+            <h2 class="text-center text-xl font-bold pt-6">ChemE Car</h2>
             <p class="text-justify">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut
-              voluptate eveniet voluptatibus optio rem eos neque quisquam
-              laboriosam, explicabo eaque commodi quaerat facilis. Numquam vitae
-              suscipit eius mollitia provident modi!
+              Es un concurso oficial de AIChE que consiste en diseñar y
+              construir un automóvil propulsado por una fuente de energía
+              química, que recorrerá de manera segura una distancia específica
+              para luego detenerse. Los ganadores representarán a la región de
+              Latinoamérica en la Conferencia Anual de estudiantes de AIChE en
+              EE.UU.
             </p>
           </div>
         </div>
@@ -144,13 +147,13 @@
           <div class="carousel w-full md:max-h-96 max-h-60">
             <div id="2_slide1" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/UTEC_campus.jpg"
+                src="@/assets/competencias/chemecar_1.png"
                 class="w-full object-cover"
               />
               <div
                 class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
               >
-                <a href="#2_slide4" class="btn btn-circle bg-[#006] border-none"
+                <a href="#2_slide3" class="btn btn-circle bg-[#006] border-none"
                   >❮</a
                 >
                 <a href="#2_slide2" class="btn btn-circle bg-[#006] border-none"
@@ -160,7 +163,7 @@
             </div>
             <div id="2_slide2" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/utec/utec-garage.jpg"
+                src="@/assets/competencias/chemecar_2.png"
                 class="w-full object-cover"
               />
               <div
@@ -176,7 +179,7 @@
             </div>
             <div id="2_slide3" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/utec/utec-lab2.jpg"
+                src="@/assets/competencias/chemecar_3.png"
                 class="w-full object-cover"
               />
               <div
@@ -185,12 +188,12 @@
                 <a href="#2_slide2" class="btn btn-circle bg-[#006] border-none"
                   >❮</a
                 >
-                <a href="#2_slide4" class="btn btn-circle bg-[#006] border-none"
+                <a href="#2_slide1" class="btn btn-circle bg-[#006] border-none"
                   >❯</a
                 >
               </div>
             </div>
-            <div id="2_slide4" class="carousel-item relative w-full">
+            <!-- <div id="2_slide4" class="carousel-item relative w-full">
               <img
                 src="@/assets/home/utec/utec-lab3.jpg"
                 class="w-full object-cover"
@@ -205,7 +208,7 @@
                   >❯</a
                 >
               </div>
-            </div>
+            </div> -->
           </div>
         </label>
       </label>
@@ -216,25 +219,26 @@
         >
           <div class="image">
             <img
-              class="ab-bw"
+              class="ab-bw pt-3"
               src="../../assets/competencias/responsibility-bw.png"
               alt=""
             />
             <img
-              class="ab-img"
+              class="ab-img pt-3"
               src="../../assets/competencias/responsibility.png"
               alt=""
             />
           </div>
           <div class="card-body">
-            <h2 class="text-center text-xl font-bold pt-3">
+            <h2 class="text-center text-xl font-bold pt-6">
               Paper Competition
             </h2>
             <p class="text-justify">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut
-              voluptate eveniet voluptatibus optio rem eos neque quisquam
-              laboriosam, explicabo eaque commodi quaerat facilis. Numquam vitae
-              suscipit eius mollitia provident modi!
+              Es un concurso oficial de AIChE que busca que los estudiantes
+              muestren los resultados de sus proyectos, investigaciones o
+              pasantías a través de una presentación técnica en inglés. El
+              ganador representará a la región de Latinoamérica en la
+              Conferencia Anual de estudiantes de AIChE en EE.UU.
             </p>
           </div>
         </div>
@@ -248,13 +252,13 @@
           <div class="carousel w-full md:max-h-96 max-h-60">
             <div id="3_slide1" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/UTEC_campus.jpg"
+                src="@/assets/competencias/paper1.png"
                 class="w-full object-cover"
               />
               <div
                 class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
               >
-                <a href="#3_slide4" class="btn btn-circle bg-[#006] border-none"
+                <a href="#3_slide3" class="btn btn-circle bg-[#006] border-none"
                   >❮</a
                 >
                 <a href="#3_slide2" class="btn btn-circle bg-[#006] border-none"
@@ -264,7 +268,7 @@
             </div>
             <div id="3_slide2" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/utec/utec-garage.jpg"
+                src="@/assets/competencias/paper2.jpg"
                 class="w-full object-cover"
               />
               <div
@@ -280,7 +284,7 @@
             </div>
             <div id="3_slide3" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/utec/utec-lab2.jpg"
+                src="@/assets/competencias/paper3.png"
                 class="w-full object-cover"
               />
               <div
@@ -289,12 +293,12 @@
                 <a href="#3_slide2" class="btn btn-circle bg-[#006] border-none"
                   >❮</a
                 >
-                <a href="#3_slide4" class="btn btn-circle bg-[#006] border-none"
+                <a href="#3_slide1" class="btn btn-circle bg-[#006] border-none"
                   >❯</a
                 >
               </div>
             </div>
-            <div id="3_slide4" class="carousel-item relative w-full">
+            <!-- <div id="3_slide4" class="carousel-item relative w-full">
               <img
                 src="@/assets/home/utec/utec-lab3.jpg"
                 class="w-full object-cover"
@@ -309,42 +313,42 @@
                   >❯</a
                 >
               </div>
-            </div>
+            </div> -->
           </div>
         </label>
       </label>
 
-      <label for="my-modal-3" class="p-5 md:px-3 flex cursor-pointer">
+      <label for="my-modal-4" class="p-5 md:px-3 flex cursor-pointer">
         <div
           class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
           <div class="image">
             <img
-              class="ab-bw"
+              class="ab-bw pt-3"
               src="../../assets/competencias/experience.-bw.png"
               alt=""
             />
             <img
-              class="ab-img"
+              class="ab-img pt-3"
               src="../../assets/competencias/experience.png"
               alt=""
             />
           </div>
           <div class="card-body">
-            <h2 class="text-center text-xl font-bold pt-3">
+            <h2 class="text-center text-xl font-bold pt-6">
               Poster Competition
             </h2>
             <p class="text-justify">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut
-              voluptate eveniet voluptatibus optio rem eos neque quisquam
-              laboriosam, explicabo eaque commodi quaerat facilis. Numquam vitae
-              suscipit eius mollitia provident modi! lore
+              Es un concurso oficial de AIChE que busca que los estudiantes
+              muestren los resultados de sus proyectos, investigaciones o
+              pasantías a través de una presentación técnica en español
+              guiándose de un póster científico.
             </p>
           </div>
         </div>
       </label>
-      <input type="checkbox" id="my-modal-3" class="modal-toggle" />
-      <label for="my-modal-3" class="modal cursor-pointer">
+      <input type="checkbox" id="my-modal-4" class="modal-toggle" />
+      <label for="my-modal-4" class="modal cursor-pointer">
         <label class="modal-box relative bg-[#006]/90" for="">
           <h3 class="text-lg font-bold text-center text-white pb-3">
             Poster Competition
@@ -352,13 +356,13 @@
           <div class="carousel w-full md:max-h-96 max-h-60">
             <div id="4_slide1" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/UTEC_campus.jpg"
+                src="@/assets/competencias/poster1.jpg"
                 class="w-full object-cover"
               />
               <div
                 class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
               >
-                <a href="#4_slide4" class="btn btn-circle bg-[#006] border-none"
+                <a href="#4_slide3" class="btn btn-circle bg-[#006] border-none"
                   >❮</a
                 >
                 <a href="#4_slide2" class="btn btn-circle bg-[#006] border-none"
@@ -368,7 +372,7 @@
             </div>
             <div id="4_slide2" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/utec/utec-garage.jpg"
+                src="@/assets/competencias/poster2.jpg"
                 class="w-full object-cover"
               />
               <div
@@ -384,7 +388,7 @@
             </div>
             <div id="4_slide3" class="carousel-item relative w-full">
               <img
-                src="@/assets/home/utec/utec-lab2.jpg"
+                src="@/assets/competencias/poster3.jpg"
                 class="w-full object-cover"
               />
               <div
@@ -393,12 +397,12 @@
                 <a href="#4_slide2" class="btn btn-circle bg-[#006] border-none"
                   >❮</a
                 >
-                <a href="#4_slide4" class="btn btn-circle bg-[#006] border-none"
+                <a href="#4_slide1" class="btn btn-circle bg-[#006] border-none"
                   >❯</a
                 >
               </div>
             </div>
-            <div id="4_slide4" class="carousel-item relative w-full">
+            <!-- <div id="4_slide4" class="carousel-item relative w-full">
               <img
                 src="@/assets/home/utec/utec-lab3.jpg"
                 class="w-full object-cover"
@@ -413,7 +417,7 @@
                   >❯</a
                 >
               </div>
-            </div>
+            </div> -->
           </div>
         </label>
       </label>

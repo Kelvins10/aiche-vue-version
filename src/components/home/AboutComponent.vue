@@ -13,10 +13,11 @@
       />
       <div class="md:w-2/5 w-full text-black flex flex-col items-center">
         <p class="pb-8 pl-4 font-normal text-lg text-justify">
-          PROCESA es un evento de la región de Latinoamérica, en donde se
-          realizan múltiples actividades académicas, culturales y de
-          integración; dentro de las cuales podrán encontrar conferencias,
-          paneles, talleres, entre otras.
+          Es un encuentro en donde se promueve la ingeniería química y afines
+          junto a líderes de AIChE, estudiantes de diferentes universidades,
+          investigadores y profesionales de la industria. Es un espacio en donde
+          se realizan conferencias, talleres, competencias oficiales, espacios
+          de networking, eventos culturales y mucho más.
         </p>
         <h3 class="text-lg font-bold">
           <span

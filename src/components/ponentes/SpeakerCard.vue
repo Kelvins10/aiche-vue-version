@@ -10,7 +10,7 @@
             :src="'https://api.lorem.space/image/face?hash=3379' + speaker.id"
             alt="Speaker"
           />
-          <div
+          <!-- <div
             class="absolute z-10 w-full h-full opacity-0 hover:opacity-100 duration-300 bg-white/70"
           >
             <h4
@@ -18,7 +18,7 @@
             >
               {{ speaker.description }}
             </h4>
-          </div>
+          </div> -->
 
           <!-- <div class="w-64 h-64 bg-red-100 relative">
       <div
@@ -36,12 +36,13 @@
         </figure>
         <div class="card-body pt-5 md:px-8 px-5">
           <h1 class="card-title text-black">
-            {{ speaker.tema }}
+            {{ speaker.name }}
           </h1>
-          <h2 class="text-black/80">{{ speaker.name }}</h2>
+          <h2 class="text-black/80">{{ speaker.especialidad }}</h2>
           <div class="flex justify-between font-bold text-[#006]/80">
             <h3>{{ speaker.fecha }}</h3>
             <div
+              v-if="speaker.hora !== ''"
               class="badge bg-[#00BFFF] border-2 text-xs :text-md border-[#00BFFF] h-auto py-2.5 text-[#006]"
             >
               {{ speaker.hora }}

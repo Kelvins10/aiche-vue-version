@@ -85,11 +85,12 @@
 
             <p class="text-[11px] sm:text-base">
               Para poder viajar al Perú, todas las personas deberán llenar
-              previamente la Declaración Jurada de Salud
+              previamente la
               <a
                 target="_blank"
                 href="https://e-notificacion.migraciones.gob.pe/dj-salud/"
-                >(https://e-notificacion.migraciones.gob.pe/dj-salud/)</a
+                class="link link-accent text-[#00BFFF]"
+                >Declaración Jurada de Salud</a
               >
               dentro de las 72 horas anteriores al viaje. El registro es
               individual y cuando se trate de un menor de edad, lo realiza el

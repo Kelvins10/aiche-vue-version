@@ -7,8 +7,12 @@
         <figure class="relative">
           <img
             class="h-52 w-full object-cover"
-            :src="'https://api.lorem.space/image/face?hash=3379' + speaker.id"
-            alt="Speaker"
+            :src="
+              '@/assets/ponentes/' + speaker.name.replace(' ', '_') + '.png'
+            "
+            :alt="
+              '@/assets/ponentes/' + speaker.name.replace(' ', '_') + '.png'
+            "
           />
           <!-- <div
             class="absolute z-10 w-full h-full opacity-0 hover:opacity-100 duration-300 bg-white/70"

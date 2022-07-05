@@ -24,7 +24,7 @@
           </div>
           <div class="card-body">
             <h2 class="text-center text-xl font-bold pt-6">ChemE Joepardy</h2>
-            <p class="text-justify">
+            <p class="text-justify text-sm sm:text-base">
               Es un concurso oficial de AIChE de conocimientos y estrategia
               sobre ingeniería química y afines, donde nosotros te damos las
               respuestas y tú debes formular la pregunta de manera correcta. Los
@@ -127,7 +127,7 @@
           </div>
           <div class="card-body">
             <h2 class="text-center text-xl font-bold pt-6">ChemE Car</h2>
-            <p class="text-justify">
+            <p class="text-justify text-sm sm:text-base">
               Es un concurso oficial de AIChE que consiste en diseñar y
               construir un automóvil propulsado por una fuente de energía
               química, que recorrerá de manera segura una distancia específica
@@ -233,7 +233,7 @@
             <h2 class="text-center text-xl font-bold pt-6">
               Paper Competition
             </h2>
-            <p class="text-justify">
+            <p class="text-justify text-sm sm:text-base">
               Es un concurso oficial de AIChE que busca que los estudiantes
               muestren los resultados de sus proyectos, investigaciones o
               pasantías a través de una presentación técnica en inglés. El
@@ -338,7 +338,7 @@
             <h2 class="text-center text-xl font-bold pt-6">
               Poster Competition
             </h2>
-            <p class="text-justify">
+            <p class="text-justify text-sm sm:text-base">
               Es un concurso oficial de AIChE que busca que los estudiantes
               muestren los resultados de sus proyectos, investigaciones o
               pasantías a través de una presentación técnica en español

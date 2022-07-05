@@ -1,6 +1,8 @@
 <template>
   <div class="xl:px-32 lg:px-20 md:px-14 px-10 bg-white">
-    <h2 class="text-3xl bg-white font-bold text-center text-[#006]">
+    <h2
+      class="md:text-3xl sm:text-2xl text-xl bg-white font-bold text-center text-[#006]"
+    >
       ¿Qué es PROCESA?
     </h2>
     <div
@@ -12,7 +14,9 @@
         class="md:w-2/5 w-full"
       />
       <div class="md:w-2/5 w-full text-black flex flex-col items-center">
-        <p class="pb-8 pl-4 font-normal text-lg text-justify">
+        <p
+          class="pb-8 pl-4 font-normal md:text-lg sm:text-base text-sm text-justify"
+        >
           Es un encuentro en donde se promueve la ingeniería química y afines
           junto a líderes de AIChE, estudiantes de diferentes universidades,
           investigadores y profesionales de la industria. Es un espacio en donde

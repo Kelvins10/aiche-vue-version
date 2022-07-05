@@ -11,9 +11,8 @@
     </div>
     <div class="flex justify-center pt-5 w-full pb-10">
       <img
-        class="shadow-md shadow-[#231f20] rounded-xl border border-[#231f20]"
-        src="../../assets/cronograma/horario1.jpg"
-        alt=""
+        class="shadow-md shadow-[#231f20] rounded-xl border border-[#231f20] w-4/5"
+        src="@/assets/cronograma/agosto04x2.png"
       />
     </div>
   </div>

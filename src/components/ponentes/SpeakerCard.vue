@@ -5,12 +5,7 @@
         class="card w-96 bg-white m-4 h-[450px] border-[1px] border-[#006] shadow-xl shadow-[#006]/40"
       >
         <figure class="relative">
-          <img <<<<<<< HEAD class="h-52 w-full object-cover" :src="
-          '@/assets/ponentes/' + speaker.name.replace(' ', '_') + '.png' "
-          :alt=" '@/assets/ponentes/' + speaker.name.replace(' ', '_') + '.png'
-          " ======= class="h-64 w-full object-cover" :src="'/images/ponentes/' +
-          speaker.img" :alt="speaker.name" >>>>>>>
-          a46259e8c516ec8c8e4bbeb138a801c255d864d9 />
+          <img :src="'/images/ponentes/' + speaker.img" :alt="speaker.name" />
           <!-- <div
             class="absolute z-10 w-full h-full opacity-0 hover:opacity-100 duration-300 bg-white/70"
           >

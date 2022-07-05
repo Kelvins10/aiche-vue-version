@@ -1,8 +1,12 @@
 <template>
   <div class="xl:px-32 lg:px-20 md:px-14 px-10 bg-white">
     <div class="bg-white pt-5 text-center">
-      <h2 class="text-3xl font-bold text-[#006]">Medidas de Prevención</h2>
-      <h3 class="text-black text-lg pt-5 text-center pb-5">
+      <h2 class="md:text-3xl sm:text-2xl text-xl font-bold text-[#006]">
+        Medidas de Prevención
+      </h2>
+      <h3
+        class="text-black md:text-lg sm:text-base text-sm pt-5 text-center pb-5"
+      >
         Si deseas participar de PROCESA 2022, debes tomar en cuenta las
         siguientes recomendaciones.
       </h3>
@@ -12,7 +16,7 @@
       <div class="collapse collapse-plus rounded-xl border border-[#00bffe]">
         <input type="checkbox" class="peer" />
         <div
-          class="collapse-title font-bold text-black text-base sm:text-lg peer-checked: peer-checked:text-black peer-checked:font-bold px-4"
+          class="collapse-title font-bold text-black md:text-lg sm:text-base text-sm peer-checked: peer-checked:text-black peer-checked:font-bold px-4"
         >
           Ingreso al Perú
         </div>
@@ -26,7 +30,7 @@
               alt=""
             />
 
-            <p class="text-[11px] sm:text-base">
+            <p class="md:text-lg sm:text-base text-sm">
               Los ciudadanos de Colombia, Bolivia, Ecuador, Argentina, Brasil,
               Chile, Paraguay y Uruguay que viajan al Perú con fines de turismo,
               pueden ingresar al territorio nacional portando únicamente su
@@ -41,7 +45,7 @@
               alt=""
             />
 
-            <p class="text-[11px] sm:text-base">
+            <p class="md:text-lg sm:text-base text-sm">
               Los ciudadanos de Venezuela precisan de contar con algún tipo de
               visado para poder ingresar al Perú, salvo que cuenten con
               residencia permanente en algún país miembro de la Alianza del
@@ -55,7 +59,7 @@
               alt=""
             />
 
-            <p class="text-[11px] sm:text-base">
+            <p class="md:text-lg sm:text-base text-sm">
               Para conocer la información precisa para cada país les
               recomendamos revisar las páginas de los consulados de Perú en sus
               países.
@@ -69,7 +73,7 @@
       <div class="collapse collapse-plus rounded-xl border border-[#00bffe]">
         <input type="checkbox" class="peer" />
         <div
-          class="collapse-title font-bold text-black text-base sm:text-lg peer-checked: peer-checked:text-black peer-checked:font-bold px-4"
+          class="collapse-title font-bold text-black md:text-lg sm:text-base text-sm peer-checked: peer-checked:text-black peer-checked:font-bold px-4"
         >
           Requisitos sanitarios al Perú
         </div>
@@ -83,7 +87,7 @@
               alt=""
             />
 
-            <p class="text-[11px] sm:text-base">
+            <p class="md:text-lg sm:text-base text-sm">
               Para poder viajar al Perú, todas las personas deberán llenar
               previamente la Declaración Jurada de Salud
               <a
@@ -105,7 +109,7 @@
               alt=""
             />
 
-            <p class="text-[11px] sm:text-base">
+            <p class="md:text-lg sm:text-base text-sm">
               Los ciudadanos de Venezuela precisan de contar con algún tipo de
               visado para poder ingresar al Perú, salvo que cuenten con
               residencia permanente en algún país miembro de la Alianza del
@@ -119,7 +123,7 @@
               alt=""
             />
 
-            <p class="text-[11px] sm:text-base">
+            <p class="md:text-lg sm:text-base text-sm">
               Para conocer la información precisa para cada país les
               recomendamos revisar las páginas de los consulados de Perú en sus
               países.
@@ -133,7 +137,7 @@
       <div class="collapse collapse-plus rounded-xl border border-[#00bffe]">
         <input type="checkbox" class="peer" />
         <div
-          class="collapse-title font-bold text-black text-base sm:text-lg peer-checked: peer-checked:text-black peer-checked:font-bold px-4"
+          class="collapse-title font-bold text-black md:text-lg sm:text-base text-sm peer-checked: peer-checked:text-black peer-checked:font-bold px-4"
         >
           Ingreso al campus de UTEC
         </div>
@@ -147,7 +151,7 @@
               alt=""
             />
 
-            <p class="text-[11px] sm:text-base">
+            <p class="md:text-lg sm:text-base text-sm">
               Para el ingreso al campus se solicitará un documento de identidad
               así como la vacunación completa, adicionalmente si es extrajero o
               participará del ChemE Car Competition será necesario contar con un

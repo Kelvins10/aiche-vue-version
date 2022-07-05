@@ -6,10 +6,12 @@
       <div
         class="m-auto border border-[#fff] shadow-xl p-10 rounded-lg md:w-[60%] w-full"
       >
-        <h1 class="text-center text-[#006] text-3xl font-bold pb-5">
+        <h1
+          class="text-center text-[#006] md:text-3xl sm:text-2xl text-xl font-bold pb-5"
+        >
           ¿Tienes alguna duda?
         </h1>
-        <p class="text-justify text-black text-lg">
+        <p class="text-justify text-black md:text-lg sm:text-base text-sm">
           Si tienes alguna duda, puedes contactarte a través de las siguientes
           plataformas:
         </p>
@@ -19,14 +21,12 @@
             src="../../assets/contactanos/bxl-instagram.svg"
             class="w-[45px] p-2 border border-[#231f20] bg-[#fff] rounded-full m-2"
           />
-
-          <p class="text-[15px] sm:text-lg text-black">
-            <a
-              target="_blank"
-              href="https://www.instagram.com/procesa_aiche/?hl=es0"
-              >procesa-aiche</a
-            >
-          </p>
+          <a
+            target="_blank"
+            href="https://www.instagram.com/procesa_aiche/?hl=es0"
+            class="md:text-lg sm:text-base text-sm text-black"
+            >procesa-aiche</a
+          >
         </div>
 
         <div class="flex items-center px-5 pb-2">
@@ -36,7 +36,7 @@
           />
 
           <a
-            class="text-[15px] sm:text-lg text-black"
+            class="text-[15px] md:text-lg sm:text-base text-sm text-black"
             href="mailto:procesa@utec.edu.pe"
             >procesa@utec.edu.pe</a
           >
@@ -48,7 +48,7 @@
             class="w-[45px] p-2 border border-[#231f20] bg-[#fff] rounded-full m-2"
           />
 
-          <p class="text-[14px] sm:text-lg text-black">
+          <p class="text-[14px] md:text-lg sm:text-base text-sm text-black">
             +51 956572242 / +51 956157244
           </p>
         </div>

@@ -2,21 +2,20 @@
   <div class="pt-5 flex flex-wrap items-center justify-center bg-white">
     <template v-for="speaker in speakers" :key="speaker.id">
       <div
-        class="card w-96 bg-white m-4 h-[420px] border-[1px] border-[#006] shadow-xl shadow-[#006]/40"
+        class="card w-96 bg-white m-4 h-[450px] border-[1px] border-[#006] shadow-xl shadow-[#006]/40"
       >
         <figure class="relative">
-          <img
-            class="h-52 w-full object-cover"
-            :src="
-              '@/assets/ponentes/' + speaker.name.replace(' ', '_') + '.png'
-            "
-            :alt="
-              '@/assets/ponentes/' + speaker.name.replace(' ', '_') + '.png'
-            "
-          />
+          <img <<<<<<< HEAD class="h-52 w-full object-cover" :src="
+          '@/assets/ponentes/' + speaker.name.replace(' ', '_') + '.png' "
+          :alt=" '@/assets/ponentes/' + speaker.name.replace(' ', '_') + '.png'
+          " ======= class="h-64 w-full object-cover" :src="'/images/ponentes/' +
+          speaker.img" :alt="speaker.name" >>>>>>>
+          a46259e8c516ec8c8e4bbeb138a801c255d864d9 />
           <!-- <div
             class="absolute z-10 w-full h-full opacity-0 hover:opacity-100 duration-300 bg-white/70"
           >
+          :src="'@/assets/ponentes/' + speaker.img"
+          src="@/assets/ponentes/Juan_Gabriel_Segovia_Hernandez.png"
             <h4
               class="text-center justify-center relative text-md text-[#006] font-semibold top-1/3 translate-y-1/3"
             >

@@ -1,29 +1,37 @@
 <template>
   <div class="xl:px-32 lg:px-20 md:px-14 px-10 bg-white">
     <div class="bg-white pt-5 text-center">
-      <h2 class="text-3xl font-bold text-[#006]">Tarifas Generales</h2>
+      <h2 class="text-3xl font-bold text-[#006]">Regístrate</h2>
       <h3 class="text-black text-lg pt-5 text-center">
-        Si quieres estar en el PROCESA 2022, a continuación te presentamos
-        nuestras tarifas:
+        Si quieres estar en el PROCESA 2022 deberás completar tu registro
+        haciendo click en
+        <a
+          href="https://forms.gle/bRkZ95FdkJrAv26KA"
+          target="blank"
+          class="link link-accent text-[#00BFFF]"
+          >este formulario</a
+        >
+        y luego realizar el pago según las tarifas generales presentadas a
+        continuación:
       </h3>
     </div>
-    <div class="flex flex-col items-center pt-5 w-full pb-10">
+    <div class="flex justify-center pt-2 w-full pb-10">
       <img
-        class="shadow-md shadow-[#231f20] rounded-xl border border-[#231f20] w-9/12 mb-4"
-        src="../../assets/inscripciones/tarifa1.jpeg"
-        alt=""
-      />
-      <img
-        class="shadow-md shadow-[#231f20] rounded-xl border border-[#231f20] w-9/12 mb-4"
-        src="../../assets/inscripciones/tarifa2.jpeg"
-        alt=""
-      />
-      <img
-        class="shadow-md shadow-[#231f20] rounded-xl border border-[#231f20] w-9/12 mb-4"
-        src="../../assets/inscripciones/tarifa3.jpeg"
-        alt=""
+        class="shadow-md shadow-[#231f20] rounded-xl border border-[#231f20] w-full"
+        src="../../assets/inscripciones/tarifa.png"
       />
     </div>
+    <h3 class="text-black text-lg pb-10 text-justify">
+      *La comisión por transacción interbancaria en Perú deberá ser asumida por
+      el participante.<br />
+      **La comisión por transacción interbancaria en el extranjero será asumida
+      por la organización, es importante realizar el pago exacto de los 55
+      dólares.<br />
+      Por último, debes recordar que el
+      <span class="font-bold text-[#006]">
+        último día para el pago de inscripción será el 31 de julio.
+      </span>
+    </h3>
   </div>
 </template>
 

@@ -1,7 +1,7 @@
 <template>
   <div class="xl:px-32 lg:px-20 md:px-14 px-10 bg-white">
     <div class="bg-white pt-5 text-center">
-      <h2 class="md:text-3xl sm:text-2xl text-xl font-bold text-[#006]">
+      <h2 class="md:text-3xl sm:text-2xl text-xl font-bold text-[#006] pb-3">
         Regístrate
       </h2>
       <h3 class="text-black md:text-lg sm:text-base text-smpt-5 text-center">

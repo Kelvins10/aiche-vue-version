@@ -1,7 +1,9 @@
 <template class="">
   <div class="xl:px-32 lg:px-23 md:px-14 px-10 bg-white">
     <div>
-      <h1 class="text-3xl bg-white font-bold text-center text-[#006] pt-5">
+      <h1
+        class="md:text-3xl sm:text-2xl text-xl pb-3 bg-white font-bold text-center text-[#006] pt-5"
+      >
         Competencias Oficiales de AIChE
       </h1>
     </div>

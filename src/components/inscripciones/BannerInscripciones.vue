@@ -3,7 +3,7 @@
     <section
       class="flex h-[420px] w-auto items-center justify-center flex-col text-center text-white"
     >
-      <h1 class="text-[40px] font-bold">CRONOGRAMA</h1>
+      <h1 class="text-[40px] font-bold">INSCRIPCIONES</h1>
     </section>
     <div class="bottom-0 w-full" style="height: 150px; overflow: hidden">
       <svg

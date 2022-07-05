@@ -9,10 +9,22 @@
         durante los 3 días del evento:
       </h3>
     </div>
-    <div class="flex justify-center pt-5 w-full pb-10">
+    <div class="flex justify-center pt-5 w-full pb-5">
       <img
-        class="shadow-md shadow-[#231f20] rounded-xl border border-[#231f20] w-4/5"
+        class="shadow-md shadow-[#231f20] rounded-xl border border-[#231f20] w-full md:w-4/5"
         src="@/assets/cronograma/agosto04x2.png"
+      />
+    </div>
+    <div class="flex justify-center pt-2 w-full pb-5">
+      <img
+        class="shadow-md shadow-[#231f20] rounded-xl border border-[#231f20] w-full md:w-4/5"
+        src="@/assets/cronograma/agosto05x2.png"
+      />
+    </div>
+    <div class="flex justify-center pt-2 w-full pb-10">
+      <img
+        class="shadow-md shadow-[#231f20] rounded-xl border border-[#231f20] w-full md:w-4/5"
+        src="@/assets/cronograma/agosto06x2.png"
       />
     </div>
   </div>

@@ -1,8 +1,10 @@
 <template>
   <div class="xl:px-32 lg:px-20 md:px-14 px-10 bg-white">
     <div class="bg-white pt-5 text-center">
-      <h2 class="text-3xl font-bold text-[#006]">Regístrate</h2>
-      <h3 class="text-black text-lg pt-5 text-center">
+      <h2 class="md:text-3xl sm:text-2xl text-xl font-bold text-[#006]">
+        Regístrate
+      </h2>
+      <h3 class="text-black md:text-lg sm:text-base text-smpt-5 text-center">
         Si quieres estar en el PROCESA 2022 deberás completar tu registro
         haciendo click en
         <a
@@ -21,7 +23,7 @@
         src="../../assets/inscripciones/tarifa.png"
       />
     </div>
-    <h3 class="text-black text-lg pb-10 text-justify">
+    <h3 class="text-black md:text-base text-sm pb-10 text-justify">
       *La comisión por transacción interbancaria en Perú deberá ser asumida por
       el participante.<br />
       **La comisión por transacción interbancaria en el extranjero será asumida

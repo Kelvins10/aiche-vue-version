@@ -2,10 +2,14 @@
   <div
     class="xl:px-32 lg:px-20 md:px-14 p-8 md:py-10 py-8 bg-white flex flex-col md:content-between items-center justify-center"
   >
-    <h2 class="mb-3 text-3xl font-bold text-[#000066]">
+    <h2
+      class="mb-3 md:text-3xl sm:text-2xl text-xl font-bold text-[#000066] text-center"
+    >
       ¿Dónde se va a realizar?
     </h2>
-    <p class="font-normal text-justify mb-3 text-black">
+    <p
+      class="font-normal text-justify mb-3 text-black md:text-lg sm:text-base text-sm"
+    >
       En esta edición del PROCESA, la universidad anfitriona es la Universidad
       de Ingeniería y Tecnología - UTEC que se encuentra ubicada en el distrito
       de Barranco en Lima, Perú. ¡El evento será 100% presencial!

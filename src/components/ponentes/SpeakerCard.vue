@@ -15,8 +15,6 @@
           <!-- <div
             class="absolute z-10 w-full h-full opacity-0 hover:opacity-100 duration-300 bg-white/70"
           >
-          :src="'@/assets/ponentes/' + speaker.img"
-          src="@/assets/ponentes/Juan_Gabriel_Segovia_Hernandez.png"
             <h4
               class="text-center justify-center relative text-md text-[#006] font-semibold top-1/3 translate-y-1/3"
             >

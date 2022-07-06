@@ -5,7 +5,11 @@
         class="card w-96 bg-white m-4 h-[450px] border-[1px] border-[#006] shadow-xl shadow-[#006]/40"
       >
         <figure class="relative">
-          <img :src="'/images/ponentes/' + speaker.img" :alt="speaker.name" />
+          <img
+            :src="'/images/ponentes/' + speaker.img"
+            :alt="speaker.name"
+            class="h-auto w-96"
+          />
           <img
             v-if="speaker.pais != ''"
             :src="'/images/ponentes/' + speaker.pais + '.png'"

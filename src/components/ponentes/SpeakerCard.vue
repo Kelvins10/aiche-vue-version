@@ -6,6 +6,12 @@
       >
         <figure class="relative">
           <img :src="'/images/ponentes/' + speaker.img" :alt="speaker.name" />
+          <img
+            v-if="speaker.pais != ''"
+            :src="'/images/ponentes/' + speaker.pais + '.png'"
+            alt="speaker.pais"
+            class="absolute right-5 top-4 z-10 w-11 h-auto"
+          />
           <!-- <div
             class="absolute z-10 w-full h-full opacity-0 hover:opacity-100 duration-300 bg-white/70"
           >

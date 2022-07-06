@@ -2,11 +2,11 @@
   <div class="pt-5 flex flex-wrap items-center justify-center bg-white">
     <template v-for="speaker in speakers" :key="speaker.id">
       <div
-        class="card w-96 bg-white m-4 h-[420px] border-[1px] border-[#006] shadow-xl shadow-[#006]/40"
+        class="card w-96 bg-white m-4 h-[450px] border-[1px] border-[#006] shadow-xl shadow-[#006]/40"
       >
         <figure class="relative">
           <img
-            class="h-52 w-full object-cover"
+            class="h-64 w-full object-cover"
             :src="'/images/ponentes/' + speaker.img"
             :alt="speaker.name"
           />

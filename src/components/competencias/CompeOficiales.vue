@@ -221,13 +221,13 @@
         >
           <div class="image">
             <img
-              class="ab-bw pt-3"
-              src="../../assets/competencias/responsibility-bw.png"
+              class="ab-bw pt-3 w-16"
+              src="../../assets/competencias/paper-bw.png"
               alt=""
             />
             <img
-              class="ab-img pt-3"
-              src="../../assets/competencias/responsibility.png"
+              class="ab-img pt-3 w-16"
+              src="../../assets/competencias/paper.png"
               alt=""
             />
           </div>
@@ -326,13 +326,13 @@
         >
           <div class="image">
             <img
-              class="ab-bw pt-3"
-              src="../../assets/competencias/experience.-bw.png"
+              class="ab-bw pt-3 w-16"
+              src="../../assets/competencias/poster-bw.png"
               alt=""
             />
             <img
-              class="ab-img pt-3"
-              src="../../assets/competencias/experience.png"
+              class="ab-img pt-3 w-16"
+              src="../../assets/competencias/poster.png"
               alt=""
             />
           </div>

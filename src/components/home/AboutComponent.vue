@@ -3,7 +3,7 @@
     <h2
       class="md:text-3xl sm:text-2xl text-xl bg-white font-bold text-center text-[#006]"
     >
-      ¿Qué es PROCESA?
+      ¿Qué es el PROCESA?
     </h2>
     <div
       class="flex md:flex-row flex-col justify-evenly items-center pb-10 border-b-2 border-[#00BFFF]"

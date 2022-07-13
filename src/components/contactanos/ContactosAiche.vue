@@ -25,7 +25,7 @@
             target="_blank"
             href="https://www.instagram.com/procesa_aiche/?hl=es0"
             class="md:text-lg sm:text-base text-sm text-black"
-            >procesa-aiche</a
+            >procesa_aiche</a
           >
         </div>
 

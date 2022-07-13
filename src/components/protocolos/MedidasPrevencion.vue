@@ -34,8 +34,7 @@
               Los ciudadanos de Colombia, Bolivia, Ecuador, Argentina, Brasil,
               Chile, Paraguay y Uruguay que viajan al Perú con fines de turismo,
               pueden ingresar al territorio nacional portando únicamente su
-              documento o cédula nacional de identidad (en caso de menores de
-              edad colombianos, pueden portar su tarjeta de identidad).
+              documento o cédula nacional de identidad.
             </p>
           </div>
           <div class="flex items-center px-5 pb-2">
@@ -96,11 +95,9 @@
                 class="link link-accent text-[#00BFFF]"
                 >Declaración Jurada de Salud</a
               >
-              dentro de las 72 horas anteriores al viaje. El registro es
-              individual y cuando se trate de un menor de edad, lo realiza el
-              tutor o persona encargada del viajero. Recuerde guardar la imagen
-              de dicha declaración de forma virtual o impresa, lo que resulta
-              indispensable para el embarque a cargo de la aerolínea.
+              dentro de las 72 horas anteriores al viaje. Recuerde guardar la
+              imagen de dicha declaración de forma virtual o impresa, lo que
+              resulta indispensable para el embarque a cargo de la aerolínea.
             </p>
           </div>
           <div class="flex items-center px-5 pb-2">
@@ -111,10 +108,13 @@
             />
 
             <p class="md:text-lg sm:text-base text-sm">
-              Los ciudadanos de Venezuela precisan de contar con algún tipo de
-              visado para poder ingresar al Perú, salvo que cuenten con
-              residencia permanente en algún país miembro de la Alianza del
-              Pacífico (Chile, Colombia o México).
+              Los extranjeros no residentes cuyo destino final sea el territorio
+              nacional en calidad de pasajeros e independientemente del país de
+              procedencia deben contar con la vacunación completa de acuerdo al
+              esquema de su país de origen. En su defecto, se puede presentar
+              una prueba molecular (PCR) negativa con fecha de resultado que no
+              sea mayor a 48 horas antes de la hora de embarque en su punto de
+              origen.
             </p>
           </div>
           <div class="flex items-center px-5 pb-2">
@@ -154,9 +154,19 @@
 
             <p class="md:text-lg sm:text-base text-sm">
               Para el ingreso al campus se solicitará un documento de identidad
-              así como la vacunación completa, adicionalmente si es extrajero o
-              participará del ChemE Car Competition será necesario contar con un
-              seguro de salud.
+              así como la vacunación completa, también deberá permanecer con
+              doble mascarilla o mascarilla KN-95, adicionalmente si eres
+              participante internacional es necesario contar con un seguro de
+              salud o si participarás del ChemE Car Competition será necesario
+              contar también con un seguro contra accidentes (pueden revisarlo
+              por ejemplo en
+              <a
+                target="_blank"
+                href="https://www.assistcard.com"
+                class="link link-accent text-[#00BFFF]"
+                >https://www.assistcard.com</a
+              >
+              )
             </p>
           </div>
         </div>

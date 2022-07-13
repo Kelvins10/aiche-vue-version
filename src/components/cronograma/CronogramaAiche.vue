@@ -5,8 +5,8 @@
         Actividas que se realizarán en el PROCESA 2022
       </h2>
       <h3 class="text-black md:text-lg sm:text-base text-sm pt-5 text-center">
-        A continuación se mostrarán las diversas actividades que se realizarán
-        durante los 3 días del evento:
+        A continuación podrás observar las diversas actividades que se
+        realizarán durante los 3 días del evento.
       </h3>
     </div>
     <div class="flex justify-center pt-5 w-full pb-5">

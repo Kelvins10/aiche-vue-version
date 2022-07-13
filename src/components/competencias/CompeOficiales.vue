@@ -10,7 +10,7 @@
     <div class="flex flex-wrap justify-evenly pb-10 m-auto">
       <label for="my-modal-1" class="p-5 md:px-3 flex cursor-pointer">
         <div
-          class="ab-pillar relative pt-10 w-full card bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
+          class="ab-pillar relative pt-10 w-full card bg-[#00BFFF] shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
           <div class="image">
             <img
@@ -25,7 +25,9 @@
             />
           </div>
           <div class="card-body">
-            <h2 class="text-center text-xl font-bold pt-6">ChemE Joepardy</h2>
+            <h2 class="text-center text-xl font-bold pt-6">
+              ChemE Jeopardy Competition
+            </h2>
             <p class="text-justify text-sm sm:text-base">
               Es un concurso oficial de AIChE de conocimientos y estrategia
               sobre ingeniería química y afines, donde nosotros te damos las
@@ -40,7 +42,7 @@
       <label for="my-modal-1" class="modal cursor-pointer">
         <label class="modal-box relative bg-[#006]/90" for="">
           <h3 class="text-lg font-bold text-center text-white pb-3">
-            ChemE Joepardy
+            ChemE Jeopardy Competition
           </h3>
           <div class="carousel w-full md:max-h-96 max-h-60">
             <div id="1_slide1" class="carousel-item relative w-full">
@@ -113,7 +115,7 @@
 
       <label for="my-modal-2" class="p-5 md:px-3 flex cursor-pointer">
         <div
-          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
+          class="ab-pillar relative pt-10 card w-full bg-[#000066] shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
           <div class="image">
             <img
@@ -128,9 +130,11 @@
             />
           </div>
           <div class="card-body">
-            <h2 class="text-center text-xl font-bold pt-6">ChemE Car</h2>
-            <p class="text-justify text-sm sm:text-base">
-              Es un concurso oficial de AIChE que consiste en diseñar y
+            <h2 class="text-center text-xl font-bold pt-6 text-white">
+              ChemE Car Competition
+            </h2>
+            <p class="text-justify text-sm sm:text-base text-white">
+              En un concurso oficial de AIChE que consiste en diseñar y
               construir un automóvil propulsado por una fuente de energía
               química, que recorrerá de manera segura una distancia específica
               para luego detenerse. Los ganadores representarán a la región de
@@ -144,7 +148,7 @@
       <label for="my-modal-2" class="modal cursor-pointer">
         <label class="modal-box relative bg-[#006]/90" for="">
           <h3 class="text-lg font-bold text-center text-white pb-3">
-            ChemE Car
+            ChemE Car Competition
           </h3>
           <div class="carousel w-full md:max-h-96 max-h-60">
             <div id="2_slide1" class="carousel-item relative w-full">
@@ -217,7 +221,7 @@
 
       <label for="my-modal-3" class="p-5 md:px-3 flex cursor-pointer">
         <div
-          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
+          class="ab-pillar relative pt-10 card w-full bg-[#D9F6FF] shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
           <div class="image">
             <img
@@ -233,10 +237,10 @@
           </div>
           <div class="card-body">
             <h2 class="text-center text-xl font-bold pt-6">
-              Paper Competition
+              Paper Competition <br /><br />
             </h2>
             <p class="text-justify text-sm sm:text-base">
-              Es un concurso oficial de AIChE que busca que los estudiantes
+              En un concurso oficial de AIChE que busca que los estudiantes
               muestren los resultados de sus proyectos, investigaciones o
               pasantías a través de una presentación técnica en inglés. El
               ganador representará a la región de Latinoamérica en la
@@ -322,7 +326,7 @@
 
       <label for="my-modal-4" class="p-5 md:px-3 flex cursor-pointer">
         <div
-          class="ab-pillar relative pt-10 card w-full bg-white shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
+          class="ab-pillar relative pt-10 card w-full bg-[#4BD1FF] shadow-xl border text-black md:w-[300px] lg:w-[380px] xl:w-[430px] 2xl:w-72"
         >
           <div class="image">
             <img
@@ -338,7 +342,7 @@
           </div>
           <div class="card-body">
             <h2 class="text-center text-xl font-bold pt-6">
-              Poster Competition
+              Poster Competition<br /><br />
             </h2>
             <p class="text-justify text-sm sm:text-base">
               Es un concurso oficial de AIChE que busca que los estudiantes

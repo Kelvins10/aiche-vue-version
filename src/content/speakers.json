@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Juan Gabriel Segovia Hernandez",
-        "especialidad": "Doctor en Ingeniería Química - Instituto Nacional de Guadalajara",
+        "especialidad": "Doctor en Ingeniería Química - Universidad de Guanajuato",
         "fecha": "Jueves 4 de agosto",
         "hora": "",
         "tema": "",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "name": "Francisco Tarazon Vasquez",
-        "especialidad": "PhD. en Ingeniería Química - Texas A&M University ",
+        "especialidad": "PhD. en Ingeniería Química - Texas A&M University",
         "fecha": "Jueves 4 de agosto",
         "hora": "10:30 am - 12:30 pm",
         "tema": "",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "name": "William Ramos",
-        "especialidad": "Ingeniero petroquímico - Universidad Nacional de Ingeniería",
+        "especialidad": "Ingeniero Petroquímico - Universidad Nacional de Ingeniería",
         "fecha": "Viernes 5 de agosto",
         "hora": "10:30 am - 12:30 pm",
         "tema": "",
@@ -99,7 +99,7 @@
     {
         "id": 9,
         "name": "Silvia Espíritu",
-        "especialidad": "Ingeniera química y Coach, IAC Perú Chapter, CEO en Iri Astral",
+        "especialidad": "Ingeniera Química y Coach, IAC Perú Chapter, CEO en Iri Astral",
         "fecha": "Jueves 4 de agosto",
         "hora": "10:30 am - 12:30 pm",
         "tema": "",

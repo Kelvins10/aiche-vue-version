@@ -17,8 +17,8 @@
         continuación:
       </h3> -->
       <h4 class="text-black md:text-lg sm:text-base text-smpt-5 text-center">
-        Si quieres estar en el PROCESA 2022 deberás completar los siguientes
-        pasos según si eres participante nacional o internacional:
+        ¿Te animas a asistir al PROCESA 2022? Entonces, deberás completar los
+        siguientes pasos según si eres participante nacional o internacional:
       </h4>
     </div>
     <div class="bg-white pt-5 text-justify pb-5">
@@ -60,14 +60,14 @@
           en el formulario.
         </li>
         <li class="text-black md:text-base text-sm pb-2">
-          <b>5)</b> Enviar el comprobante de pago a
+          <b>5)</b> Enviar el comprobante de pago al e-mail
           <a
             class="text-[15px] md:text-lg sm:text-base text-sm text-[#00BFFF]"
             href="mailto:procesa@utec.edu.pe"
             >procesa@utec.edu.pe</a
           >
           con el asunto “Pago PROCESA 2022” adjuntando tus nombres y apellidos
-          (Importante que se note el código o número de operación).
+          (Es importante que se note el código o número de operación).
         </li>
       </ol>
     </div>
@@ -98,8 +98,8 @@
           <h3 class="text-black md:text-base text-sm pb-2 text-justify">
             <i
               >(Es importante que realices solo el pago de los 55 dólares
-              exactos dado que la organización asumirá el descuento por la
-              transacción internacional).</i
+              exactos. En otras palabras: El pago de inscripción + Comisiones
+              del banco= 55 dólares)</i
             >
           </h3>
         </li>
@@ -111,7 +111,7 @@
             >procesa@utec.edu.pe</a
           >
           con el asunto “Pago PROCESA 2022” adjuntando tus nombres y apellidos
-          (Importante que se note el código o número de operación).
+          (Es importante que se note el código o número de operación).
         </li>
       </ol>
     </div>
@@ -125,18 +125,27 @@
       />
     </div>
     <h3 class="text-black md:text-base text-sm pb-10 text-justify">
-      *La comisión por transacción interbancaria en Perú deberá ser asumida por
-      el participante.<br />
+      *La comisión por transacción interbancaria en Perú, en caso lo hubiese,
+      deberá ser asumida por el participante.<br />
       **La comisión por transacción interbancaria en el extranjero será asumida
-      por la organización, es importante realizar el pago exacto de los 55
-      dólares.<br />
+      por la organización. Para ello, es importante realizar el pago exacto de
+      los 55 dólares. En este pago deberá estar incluido las comisiones que
+      cobren los bancos.<br />
+      Se puede mostrar por la siguiente fórmula: <br />
+      <i>Pago de inscripción + Comisiones= 55 dólares </i> <br />
+      Este cálculo deberá ser realizado por cada participante. De no hacerlo, el
+      participante asumirá cualquier monto extra a los 55 dólares originales y
+      la organización no reembolsará este gasto. <br />
+    </h3>
+
+    <h3 class="text-black md:text-base text-sm pb-10 text-justify">
       Por último, debes recordar que el
       <span class="font-bold text-[#006]">
         último día para el pago de inscripción será el 31 de julio.
       </span>
-      Y además, de que si se desea una factura a nombre de la universidad el
-      pago deberá ser teniendo una cuenta a tu nombre en los bancos donde se
-      realiza la transacción.
+      Y además, de que si se desea recibir una factura a nombre de la
+      universidad el pago deberá ser realizado desde una cuenta a tu nombre en
+      los bancos desde donde se realiza la transacción.
     </h3>
   </div>
 </template>

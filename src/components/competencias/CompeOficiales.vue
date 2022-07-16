@@ -32,8 +32,14 @@
               Es un concurso oficial de AIChE de conocimientos y estrategia
               sobre ingeniería química y afines, donde nosotros te damos las
               respuestas y tú debes formular la pregunta de manera correcta. Los
-              ganadores representarán a la región de Latinoamérica en la
-              Conferencia Anual de estudiantes de AIChE en EE.UU.
+              ganadores clasifican como representantes de la región de
+              Latinoamérica en la
+              <a
+                target="_blank"
+                href="https://www.aiche.org/conferences/annual-aiche-student-conference/2022"
+                class="link link-accent text-[#000]"
+                >Conferencia Anual de estudiantes de AIChE</a
+              >, a realizarse en Phoenix, Arizona en EE.UU.
             </p>
           </div>
         </div>
@@ -134,12 +140,12 @@
               ChemE Car Competition
             </h2>
             <p class="text-justify text-sm sm:text-base text-white">
-              En un concurso oficial de AIChE que consiste en diseñar y
-              construir un automóvil propulsado por una fuente de energía
-              química, que recorrerá de manera segura una distancia específica
-              para luego detenerse. Los ganadores representarán a la región de
-              Latinoamérica en la Conferencia Anual de estudiantes de AIChE en
-              EE.UU.
+              Es un concurso oficial de AIChE que consiste en diseñar y
+              construir un automóvil a escala propulsado por una fuente de
+              energía química, que recorrerá de manera segura una distancia
+              específica para luego detenerse. Los ganadores clasifican como
+              representantes de la región de Latinoamérica en la Conferencia
+              Anual de estudiantes de AIChE en EE.UU.
             </p>
           </div>
         </div>
@@ -240,11 +246,12 @@
               Paper Competition <br /><br />
             </h2>
             <p class="text-justify text-sm sm:text-base">
-              En un concurso oficial de AIChE que busca que los estudiantes
+              Es un concurso oficial de AIChE que busca que los estudiantes
               muestren los resultados de sus proyectos, investigaciones o
-              pasantías a través de una presentación técnica en inglés. El
-              ganador representará a la región de Latinoamérica en la
-              Conferencia Anual de estudiantes de AIChE en EE.UU.
+              pasantías a través de una presentación técnica en idioma inglés.
+              El ganador clasifica como representante de la región de
+              Latinoamérica en la Conferencia Anual de estudiantes de AIChE en
+              EE.UU.
             </p>
           </div>
         </div>
@@ -347,8 +354,8 @@
             <p class="text-justify text-sm sm:text-base">
               Es un concurso oficial de AIChE que busca que los estudiantes
               muestren los resultados de sus proyectos, investigaciones o
-              pasantías a través de una presentación técnica en español
-              guiándose de un póster científico.
+              pasantías a través de una presentación técnica en idioma español
+              en un póster o cartel científico.
             </p>
           </div>
         </div>

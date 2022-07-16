@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "name": "Juan Gabriel Segovia Hernandez",
-        "especialidad": "Doctor en Ingeniería Química - Universidad de Guanajuato",
+        "name": "Juan Gabriel Segovia-Hernandez",
+        "especialidad": "Doctor en ingeniería química - Instituto Tecnológico de Celaya, México",
         "fecha": "Jueves 4 de agosto",
-        "hora": "",
+        "hora": "México",
         "tema": "",
         "type": "Keynote",
         "description": "",
@@ -14,9 +14,9 @@
     {
         "id": 2,
         "name": "Alejandro Molina Ochoa",
-        "especialidad": "Doctor en Ingeniería Química - Universidad Nacional de Colombia",
+        "especialidad": "Doctor en ingeniería química y de combustibles - Universidad de Utah (EE. UU.)",
         "fecha": "Viernes 5 de agosto",
-        "hora": "",
+        "hora": "Colombia",
         "tema": "",
         "type": "Keynote",
         "description": "",
@@ -26,9 +26,9 @@
     {
         "id": 3,
         "name": "Adrian Cordova Melendez",
-        "especialidad": "Ingeniero Químico - Grupo Cobra",
+        "especialidad": "Ingeniero Químico de procesos y proyectos - Grupo Cobra",
         "fecha": "Jueves 4 de agosto",
-        "hora": "",
+        "hora": "Perú",
         "tema": "",
         "type": "Keynote",
         "description": "",
@@ -37,8 +37,8 @@
     },
     {
         "id": 4,
-        "name": "Francisco Tarazon Vasquez",
-        "especialidad": "PhD. en Ingeniería Química - Texas A&M University",
+        "name": "Francisco Tarazona Vasquez",
+        "especialidad": "PhD. en ingeniería química - Texas A&M University (EE. UU.)",
         "fecha": "Jueves 4 de agosto",
         "hora": "10:30 am - 12:30 pm",
         "tema": "",
@@ -49,8 +49,8 @@
     },
     {
         "id": 5,
-        "name": "William Ramos",
-        "especialidad": "Ingeniero Petroquímico - Universidad Nacional de Ingeniería",
+        "name": "Williams Ramos",
+        "especialidad": "Magister en Ing. De Petróleo y Gas natural - Universidad Nacional de Ingeniería (Perú)",
         "fecha": "Viernes 5 de agosto",
         "hora": "10:30 am - 12:30 pm",
         "tema": "",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "name": "Ursula Rodriguez Zuñiga",
-        "especialidad": "PhD. en Ingeniería Química - Universidad de Sao Paulo",
+        "especialidad": "PhD. en Ingeniería Ambiental - Universidad de Sao Paulo (Brasil)",
         "fecha": "Jueves 4 de agosto",
         "hora": "10:30 am - 12:30 pm",
         "tema": "",
@@ -99,7 +99,7 @@
     {
         "id": 9,
         "name": "Silvia Espíritu",
-        "especialidad": "Ingeniera Química y Coach, IAC Perú Chapter, CEO en Iri Astral",
+        "especialidad": "Ingeniera química y Coach, IAC Perú Chapter, CEO en Iri Astral",
         "fecha": "Jueves 4 de agosto",
         "hora": "10:30 am - 12:30 pm",
         "tema": "",

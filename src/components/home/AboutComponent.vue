@@ -17,10 +17,12 @@
         <p
           class="pb-8 pl-4 font-normal md:text-lg sm:text-base text-sm text-justify"
         >
-          Es un encuentro en donde se promueve la ingeniería química y afines
-          junto a líderes de AIChE, estudiantes de diferentes universidades,
-          investigadores y profesionales de la industria. Es un espacio en donde
-          se realizan conferencias, talleres, competencias oficiales, espacios
+          Es un encuentro en donde se promueve la ingeniería química y carreras
+          afines junto a líderes del Instituto Norteamericano de Ingenieros
+          Químicos (AIChE, por sus siglas en inglés), estudiantes de diferentes
+          universidades, investigadores y profesionales de la industria de
+          Latinoamérica Hispanohablante. Es un espacio en donde se realizan
+          conferencias magistrales, talleres, competencias oficiales, espacios
           de networking, eventos culturales y mucho más.
         </p>
         <h3 class="text-lg font-bold">

@@ -127,7 +127,7 @@
             <p class="md:text-lg sm:text-base text-sm">
               Para conocer la información precisa para cada país les
               recomendamos revisar las páginas de los consulados de Perú en sus
-              países.
+              respectivos países.
             </p>
           </div>
         </div>
@@ -162,7 +162,7 @@
               por ejemplo en
               <a
                 target="_blank"
-                href="https://www.assistcard.com"
+                href="https://www.assistcard.com/"
                 class="link link-accent text-[#00BFFF]"
                 >https://www.assistcard.com</a
               >
